@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Eloy Melo</title>
-    <link>http://localhost:1313/pt/posts/</link>
+    <link>https://eloymelo.com/pt/posts/</link>
     <description>Recent content in Posts on Eloy Melo</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>pt</language>
     <lastBuildDate>Tue, 08 Apr 2025 08:57:12 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/pt/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://eloymelo.com/pt/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Um Website Simples</title>
-      <link>http://localhost:1313/pt/posts/just-a-simple-website/</link>
+      <link>https://eloymelo.com/pt/posts/just-a-simple-website/</link>
       <pubDate>Tue, 08 Apr 2025 08:57:12 -0300</pubDate>
-      <guid>http://localhost:1313/pt/posts/just-a-simple-website/</guid>
+      <guid>https://eloymelo.com/pt/posts/just-a-simple-website/</guid>
       <description>&lt;p&gt;Quando eu pensei, pela primeira vez, em hospedar um site, eu nunca quis criar algo cheio de &amp;ldquo;bloat&amp;rdquo; com muito JavaScript como muitos sites fazem hoje em dia. Não me entenda errado, existem vários sites que são muitos bonitos, funcionais e eles têm usam bastante CSS e JavaScript; é que não é minha praia esse tipo de website&amp;hellip; Eu estava a procurar por algo simples e funcional, é o motivo pelo qual eu escolhi a framework do &lt;a href=&#34;https://github.com/gohugoio/hugo&#34;&gt;Hugo&lt;/a&gt; + o tema &lt;a href=&#34;https://github.com/adityatelange/hugo-PaperMod&#34;&gt;PaperMod&lt;/a&gt;, e permita-me falar: estou &lt;strong&gt;muito&lt;/strong&gt; feliz de ter escolhido essa combinação.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Olá, Hugo</title>
-      <link>http://localhost:1313/pt/posts/hello-hugo/</link>
+      <link>https://eloymelo.com/pt/posts/hello-hugo/</link>
       <pubDate>Tue, 08 Apr 2025 01:16:05 -0300</pubDate>
-      <guid>http://localhost:1313/pt/posts/hello-hugo/</guid>
+      <guid>https://eloymelo.com/pt/posts/hello-hugo/</guid>
       <description>&lt;p&gt;ATUALIZAÇÃO: Olá! Este é o meu primeiro post aqui.&lt;/p&gt;
 &lt;p&gt;Estou montando este site como espaço híbrido de portfólio + diário de aprendizado. Será um espaço onde vou escrever sobre Linux, administração de sistemas, automação, Python e muito mais — tanto em inglês quanto em português.&lt;/p&gt;
 &lt;p&gt;Fique ligado!&lt;/p&gt;</description>

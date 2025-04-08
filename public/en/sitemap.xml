@@ -2,96 +2,80 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>https://eloymelo.com/</loc>
     <lastmod>2025-04-08T11:57:06-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://localhost:1313/pt/contact/"
+                href="https://eloymelo.com/pt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/contact/"
+                href="https://eloymelo.com/"
                 />
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-04-08T11:57:06-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://localhost:1313/pt/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/posts/just-a-simple-website/</loc>
+    <loc>https://eloymelo.com/posts/just-a-simple-website/</loc>
     <lastmod>2025-04-08T08:57:01-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://localhost:1313/pt/posts/just-a-simple-website/"
+                href="https://eloymelo.com/pt/posts/just-a-simple-website/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/posts/just-a-simple-website/"
+                href="https://eloymelo.com/posts/just-a-simple-website/"
                 />
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://eloymelo.com/posts/</loc>
     <lastmod>2025-04-08T08:57:01-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://localhost:1313/pt/posts/"
+                href="https://eloymelo.com/pt/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/posts/"
+                href="https://eloymelo.com/posts/"
                 />
   </url><url>
-    <loc>http://localhost:1313/posts/hello-hugo/</loc>
+    <loc>https://eloymelo.com/posts/hello-hugo/</loc>
     <lastmod>2025-04-08T01:16:05-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://localhost:1313/pt/posts/hello-hugo/"
+                href="https://eloymelo.com/pt/posts/hello-hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/posts/hello-hugo/"
+                href="https://eloymelo.com/posts/hello-hugo/"
                 />
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
-    <lastmod>2025-04-08T01:15:03-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://eloymelo.com/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://localhost:1313/pt/categories/"
+                href="https://eloymelo.com/pt/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/"
+                href="https://eloymelo.com/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://eloymelo.com/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://localhost:1313/pt/tags/"
+                href="https://eloymelo.com/pt/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/"
+                href="https://eloymelo.com/tags/"
                 />
   </url>
 </urlset>
