@@ -9,11 +9,13 @@
     <lastBuildDate>Tue, 08 Apr 2025 01:16:05 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello Hugo</title>
+      <title>Hello, Hugo</title>
       <link>http://localhost:1313/posts/hello-hugo/</link>
       <pubDate>Tue, 08 Apr 2025 01:16:05 -0300</pubDate>
       <guid>http://localhost:1313/posts/hello-hugo/</guid>
-      <description>&lt;p&gt;Welcome to my first blog post! This site is a mix of personal portfolio, learning log, and tech thoughts.&lt;/p&gt;</description>
+      <description>&lt;p&gt;UPDATE: Hey there! This is my very first post here.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m setting up this website as a hybrid portfolio + learning log. It&amp;rsquo;ll be a place where I write about Linux, system administration, automation, Python, and more — both in &lt;strong&gt;English and Portuguese&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Stay tuned!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

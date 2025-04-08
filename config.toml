@@ -17,31 +17,40 @@ enableRobotsTXT = true
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
 
-[languages]
-  [languages.en]
+[languages.en]
     languageName = "English"
     weight = 1
+
+    [[languages.en.menu.main]]
+      name = "About"
+      url = "/about/"
+      weight = 1
+
+    [[languages.en.menu.main]]
+      name = "Posts"
+      url = "/posts/"
+      weight = 2
+
+    [[languages.en.menu.main]]
+      name = "Projects"
+      url = "/projects/"
+      weight = 3
+
   [languages.pt]
     languageName = "Português"
     weight = 2
 
-[[menu.main]]
-  name = "About"
-  url = "/about/"
-  weight = 1
+    [[languages.pt.menu.main]]
+      name = "Sobre"
+      url = "/about/"
+      weight = 1
 
-[[menu.main]]
-  name = "Blog"
-  url = "/posts/"
-  weight = 2
+    [[languages.pt.menu.main]]
+      name = "Publicações"
+      url = "/posts/"
+      weight = 2
 
-[[menu.main]]
-  name = "Projects"
-  url = "/projects/"
-  weight = 3
-
-[[menu.main]]
-  name = "Contact"
-  url = "/contact/"
-  weight = 4
-
+    [[languages.pt.menu.main]]
+      name = "Projetos"
+      url = "/projects/"
+      weight = 3
