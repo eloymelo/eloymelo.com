@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Eloy Melo</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Eloy Melo</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 08 Apr 2025 01:16:05 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello Hugo</title>
+      <link>http://localhost:1313/posts/hello-hugo/</link>
+      <pubDate>Tue, 08 Apr 2025 01:16:05 -0300</pubDate>
+      <guid>http://localhost:1313/posts/hello-hugo/</guid>
+      <description>&lt;p&gt;Welcome to my first blog post! This site is a mix of personal portfolio, learning log, and tech thoughts.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
