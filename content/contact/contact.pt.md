@@ -2,7 +2,7 @@
 title: "Contato"
 url: "/contato/"
 date: 2025-04-08T11:57:13-03:00
-draft: true
+draft: false
 ---
 
 Tem uma pergunta, quer colaborar, ou apenas quer mandar um "oi"? Sinta-se à vontade para entrar em contato por meio de um dos canais abaixo:
