@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Contacts on Eloy Melo</title>
+    <link>http://localhost:1313/contact/</link>
+    <description>Recent content in Contacts on Eloy Melo</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 08 Apr 2025 11:57:06 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/contact/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact Me</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Tue, 08 Apr 2025 11:57:06 -0300</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;p&gt;Have a question, want to collaborate, or just want to say &amp;ldquo;hi&amp;rdquo;? Feel free to reach out through any of the channels below.&lt;/p&gt;
+&lt;p&gt;E-mail: &lt;a href=&#34;mailto:contact@eloymelo.com&#34;&gt;contact@eloymelo.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/eloymelo&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/eloymelo/&#34;&gt;LinkedIn&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/@eloymelo&#34;&gt;YouTube Channel&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

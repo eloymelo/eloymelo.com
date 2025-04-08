@@ -1,5 +1,6 @@
 ---
 title: "Contact Me"
+url: "/contact/"
 date: 2025-04-08T11:57:06-03:00
 draft: true
 ---
