@@ -15,19 +15,6 @@
                 href="http://localhost:1313/pt/"
                 />
   </url><url>
-    <loc>http://localhost:1313/pt/posts/just-a-simple-website/</loc>
-    <lastmod>2025-04-08T08:57:12-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/posts/just-a-simple-website/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://localhost:1313/pt/posts/just-a-simple-website/"
-                />
-  </url><url>
     <loc>http://localhost:1313/pt/posts/</loc>
     <lastmod>2025-04-08T08:57:12-03:00</lastmod>
     <xhtml:link
@@ -39,6 +26,19 @@
                 rel="alternate"
                 hreflang="pt"
                 href="http://localhost:1313/pt/posts/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/pt/posts/just-a-simple-website/</loc>
+    <lastmod>2025-04-08T08:57:12-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/posts/just-a-simple-website/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://localhost:1313/pt/posts/just-a-simple-website/"
                 />
   </url><url>
     <loc>http://localhost:1313/pt/posts/hello-hugo/</loc>
