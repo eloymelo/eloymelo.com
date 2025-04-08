@@ -6,8 +6,19 @@
     <description>Recent content on Eloy Melo</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 08 Apr 2025 08:57:01 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 08 Apr 2025 11:57:06 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact Me</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Tue, 08 Apr 2025 11:57:06 -0300</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;p&gt;Have a question, want to collaborate, or just want to say &amp;ldquo;hi&amp;rdquo;? Feel free to reach out through any of the channels below.&lt;/p&gt;
+&lt;p&gt;E-mail: &lt;a href=&#34;mailto:contact@eloymelo.com&#34;&gt;contact@eloymelo.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/eloymelo&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/eloymelo/&#34;&gt;LinkedIn&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/@eloymelo&#34;&gt;YouTube Channel&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Just a Simple Website</title>
       <link>http://localhost:1313/posts/just-a-simple-website/</link>

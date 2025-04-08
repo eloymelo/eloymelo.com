@@ -47,7 +47,7 @@ enableRobotsTXT = true
 
     [[languages.en.menu.main]]
       name = "Contact"
-      url = "/tutorials/"
+      url = "/contact/"
       weight = 5
 
   [languages.pt]
@@ -78,5 +78,5 @@ enableRobotsTXT = true
 
     [[languages.pt.menu.main]]
       name = "Contato"
-      url = "/tutorials/"
+      url = "/contact/"
       weight = 5
