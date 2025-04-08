@@ -16,10 +16,14 @@ enableRobotsTXT = true
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
+  ShowDate = true
+  DisableRelativeTime = true
 
 [languages.en]
     languageName = "English"
     weight = 1
+    [languages.en.params]
+      DateFormat = "2 January 2006"
 
     [[languages.en.menu.main]]
       name = "About"
@@ -39,6 +43,8 @@ enableRobotsTXT = true
   [languages.pt]
     languageName = "Português"
     weight = 2
+    [languages.pt.params]
+      DateFormat = "2 de January de 2006"
 
     [[languages.pt.menu.main]]
       name = "Sobre"
