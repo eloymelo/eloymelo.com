@@ -1,6 +1,6 @@
 ---
 title: "Contato"
-url: "/contato/"
+url: "/contact/"
 date: 2025-04-08T11:57:13-03:00
 draft: false
 ---
