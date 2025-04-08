@@ -2,67 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/pt/</loc>
+    <loc>https://eloymelo.com/pt/</loc>
     <lastmod>2025-04-08T01:16:05-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="https://eloymelo.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://localhost:1313/pt/"
+                href="https://eloymelo.com/pt/"
                 />
   </url><url>
-    <loc>http://localhost:1313/pt/posts/hello-hugo/</loc>
+    <loc>https://eloymelo.com/pt/posts/hello-hugo/</loc>
     <lastmod>2025-04-08T01:16:05-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/posts/hello-hugo/"
+                href="https://eloymelo.com/posts/hello-hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://localhost:1313/pt/posts/hello-hugo/"
+                href="https://eloymelo.com/pt/posts/hello-hugo/"
                 />
   </url><url>
-    <loc>http://localhost:1313/pt/posts/</loc>
+    <loc>https://eloymelo.com/pt/posts/</loc>
     <lastmod>2025-04-08T01:16:05-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/posts/"
+                href="https://eloymelo.com/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://localhost:1313/pt/posts/"
+                href="https://eloymelo.com/pt/posts/"
                 />
   </url><url>
-    <loc>http://localhost:1313/pt/categories/</loc>
+    <loc>https://eloymelo.com/pt/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/"
+                href="https://eloymelo.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://localhost:1313/pt/categories/"
+                href="https://eloymelo.com/pt/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/pt/tags/</loc>
+    <loc>https://eloymelo.com/pt/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/"
+                href="https://eloymelo.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://localhost:1313/pt/tags/"
+                href="https://eloymelo.com/pt/tags/"
                 />
   </url>
 </urlset>

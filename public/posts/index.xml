@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Eloy Melo</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://eloymelo.com/posts/</link>
     <description>Recent content in Posts on Eloy Melo</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Tue, 08 Apr 2025 01:16:05 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://eloymelo.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello, Hugo</title>
-      <link>http://localhost:1313/posts/hello-hugo/</link>
+      <link>https://eloymelo.com/posts/hello-hugo/</link>
       <pubDate>Tue, 08 Apr 2025 01:16:05 -0300</pubDate>
-      <guid>http://localhost:1313/posts/hello-hugo/</guid>
+      <guid>https://eloymelo.com/posts/hello-hugo/</guid>
       <description>&lt;p&gt;UPDATE: Hey there! This is my very first post here.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m setting up this website as a hybrid portfolio + learning log. It&amp;rsquo;ll be a place where I write about Linux, system administration, automation, Python, and more — both in &lt;strong&gt;English and Portuguese&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Stay tuned!&lt;/p&gt;</description>
