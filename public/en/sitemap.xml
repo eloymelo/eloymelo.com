@@ -3,14 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/contact/</loc>
-    <lastmod>2025-04-08T11:57:06-03:00</lastmod>
+    <lastmod>2025-04-08T11:57:13-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/contact/</loc>
+    <lastmod>2025-04-08T11:57:13-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/en/</loc>
-    <lastmod>2025-04-08T11:57:06-03:00</lastmod>
+    <lastmod>2025-04-08T11:57:13-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://localhost:1313/"
+                href="http://localhost:1313/pt/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -23,7 +26,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://localhost:1313/posts/just-a-simple-website/"
+                href="http://localhost:1313/pt/posts/just-a-simple-website/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -31,12 +34,25 @@
                 href="http://localhost:1313/en/posts/just-a-simple-website/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/publica%C3%A7%C3%B5es/just-a-simple-website/</loc>
+    <lastmod>2025-04-08T08:57:01-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://localhost:1313/pt/publica%C3%A7%C3%B5es/just-a-simple-website/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/publica%C3%A7%C3%B5es/just-a-simple-website/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en/posts/</loc>
     <lastmod>2025-04-08T08:57:01-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://localhost:1313/posts/"
+                href="http://localhost:1313/pt/posts/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -44,12 +60,28 @@
                 href="http://localhost:1313/en/posts/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/publica%C3%A7%C3%B5es/</loc>
+    <lastmod>2025-04-08T08:57:01-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://localhost:1313/pt/publica%C3%A7%C3%B5es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/publica%C3%A7%C3%B5es/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/tutorials/</loc>
+    <lastmod>2025-04-08T01:16:05-03:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/en/posts/hello-hugo/</loc>
     <lastmod>2025-04-08T01:16:05-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://localhost:1313/posts/hello-hugo/"
+                href="http://localhost:1313/pt/posts/hello-hugo/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -57,11 +89,36 @@
                 href="http://localhost:1313/en/posts/hello-hugo/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/projects/projetos/</loc>
+    <lastmod>2025-04-08T01:16:05-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/publica%C3%A7%C3%B5es/hello-hugo/</loc>
+    <lastmod>2025-04-08T01:16:05-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://localhost:1313/pt/publica%C3%A7%C3%B5es/hello-hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/publica%C3%A7%C3%B5es/hello-hugo/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/projects/</loc>
+    <lastmod>2025-04-08T01:16:05-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/tutorials/</loc>
+    <lastmod>2025-04-08T01:16:05-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/about/</loc>
+    <lastmod>2025-04-08T01:15:03-03:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://localhost:1313/categories/"
+                href="http://localhost:1313/pt/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -73,7 +130,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://localhost:1313/tags/"
+                href="http://localhost:1313/pt/tags/"
                 />
     <xhtml:link
                 rel="alternate"

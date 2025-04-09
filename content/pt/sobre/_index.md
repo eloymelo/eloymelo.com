@@ -1,6 +1,6 @@
 ---
 title: "Sobre mim"
-url: "/sobre/"
+#url: "/sobre/"
 date: 2025-04-08T01:15:03-03:00
 layout: "page"
 draft: false

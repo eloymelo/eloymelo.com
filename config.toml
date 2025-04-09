@@ -3,10 +3,12 @@ title = "Eloy Melo"
 theme = "PaperMod"
 languageCode = "pt"
 defaultContentLanguage = "pt"
+defaultContentLanguageInSubdir = true
+
+enableRobotsTXT = true
 
 [pagination]
-pagerSize = 10
-enableRobotsTXT = true
+  pagerSize = 10
 
 [params]
   author = "Eloy Melo"
@@ -20,32 +22,65 @@ enableRobotsTXT = true
   DisableRelativeTime = true
 
 [languages.pt]
-    languageName = "Português"
+  languageName = "Português"
+  weight = 1
+  contentDir = "content/pt"
+  [languages.pt.params]
+    DateFormat = "2 de January de 2006"
+
+  [[languages.pt.menu.main]]
+    name = "Sobre"
+    url = "/sobre/"
     weight = 1
-    [languages.pt.params]
-      DateFormat = "2 de January de 2006"
 
-    [[languages.pt.menu.main]]
-      name = "Sobre"
-      url = "/sobre/"
-      weight = 1
+  [[languages.pt.menu.main]]
+    name = "Publicações"
+    url = "/publicações/"
+    weight = 2
 
-    [[languages.pt.menu.main]]
-      name = "Publicações"
-      url = "/publicações/"
-      weight = 2
+  [[languages.pt.menu.main]]
+    name = "Projetos"
+    url = "/projetos/"
+    weight = 3
 
-    [[languages.pt.menu.main]]
-      name = "Projetos"
-      url = "/projetos/"
-      weight = 3
+  [[languages.pt.menu.main]]
+    name = "Tutoriais"
+    url = "/tutoriais/"
+    weight = 4
 
-    [[languages.pt.menu.main]]
-      name = "Tutoriais"
-      url = "/tutoriais/"
-      weight = 4
+  [[languages.pt.menu.main]]
+    name = "Contato"
+    url = "/contato/"
+    weight = 5
 
-    [[languages.pt.menu.main]]
-      name = "Contato"
-      url = "/contato/"
-      weight = 5
+[languages.en]
+  languageName = "English"
+  weight = 2
+  contentDir = "content/en"
+  [languages.en.params]
+    DateFormat = "2 January 2006"
+
+  [[languages.en.menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 1
+
+  [[languages.en.menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 2
+
+  [[languages.en.menu.main]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 3
+
+  [[languages.en.menu.main]]
+    name = "Tutorials"
+    url = "/tutorials/"
+    weight = 4
+
+  [[languages.en.menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 5
