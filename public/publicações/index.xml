@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Publicações on Eloy Melo</title>
+    <link>http://localhost:1313/publica%C3%A7%C3%B5es/</link>
+    <description>Recent content in Publicações on Eloy Melo</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>pt</language>
+    <lastBuildDate>Tue, 08 Apr 2025 08:57:12 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/publica%C3%A7%C3%B5es/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Um Website Simples</title>
+      <link>http://localhost:1313/publica%C3%A7%C3%B5es/just-a-simple-website/</link>
+      <pubDate>Tue, 08 Apr 2025 08:57:12 -0300</pubDate>
+      <guid>http://localhost:1313/publica%C3%A7%C3%B5es/just-a-simple-website/</guid>
+      <description>&lt;p&gt;Quando eu pensei, pela primeira vez, em hospedar um site, eu nunca quis criar algo cheio de &amp;ldquo;bloat&amp;rdquo; com muito JavaScript como muitos sites fazem hoje em dia. Não me entenda errado, existem vários sites que são muitos bonitos, funcionais e eles têm usam bastante CSS e JavaScript; é que não é minha praia esse tipo de website&amp;hellip; Eu estava a procurar por algo simples e funcional, é o motivo pelo qual eu escolhi a framework do &lt;a href=&#34;https://github.com/gohugoio/hugo&#34;&gt;Hugo&lt;/a&gt; + o tema &lt;a href=&#34;https://github.com/adityatelange/hugo-PaperMod&#34;&gt;PaperMod&lt;/a&gt;, e permita-me falar: estou &lt;strong&gt;muito&lt;/strong&gt; feliz de ter escolhido essa combinação.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Just a Simple Website</title>
+      <link>http://localhost:1313/publica%C3%A7%C3%B5es/just-a-simple-website.en/</link>
+      <pubDate>Tue, 08 Apr 2025 08:57:01 -0300</pubDate>
+      <guid>http://localhost:1313/publica%C3%A7%C3%B5es/just-a-simple-website.en/</guid>
+      <description>&lt;p&gt;When I first thought of hosting a website, I never wanted to create something too bloated with a bunch of JavaScript like many websites out there. Don&amp;rsquo;t get me wrong, there are many websites that look great and they have tons of CSS and JavaScript; but that approach is not my cup of tea&amp;hellip; I was looking for something simple and functional, that&amp;rsquo;s why I went with the &lt;a href=&#34;https://github.com/gohugoio/hugo&#34;&gt;Hugo&lt;/a&gt; framework + &lt;a href=&#34;https://github.com/adityatelange/hugo-PaperMod&#34;&gt;PaperMod&lt;/a&gt; theme, and I&amp;rsquo;m &lt;strong&gt;really&lt;/strong&gt; glad that I did that.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hello, Hugo</title>
+      <link>http://localhost:1313/publica%C3%A7%C3%B5es/hello-hugo.en/</link>
+      <pubDate>Tue, 08 Apr 2025 01:16:05 -0300</pubDate>
+      <guid>http://localhost:1313/publica%C3%A7%C3%B5es/hello-hugo.en/</guid>
+      <description>&lt;p&gt;UPDATE: Hey there! This is my very first post here.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m setting up this website as a hybrid portfolio + learning log. It&amp;rsquo;ll be a place where I write about Linux, system administration, automation, Python, and more — both in &lt;strong&gt;English and Portuguese&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Stay tuned!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Olá, Hugo</title>
+      <link>http://localhost:1313/publica%C3%A7%C3%B5es/hello-hugo/</link>
+      <pubDate>Tue, 08 Apr 2025 01:16:05 -0300</pubDate>
+      <guid>http://localhost:1313/publica%C3%A7%C3%B5es/hello-hugo/</guid>
+      <description>&lt;p&gt;ATUALIZAÇÃO: Olá! Este é o meu primeiro post aqui.&lt;/p&gt;
+&lt;p&gt;Estou montando este site como espaço híbrido de portfólio + diário de aprendizado. Será um espaço onde vou escrever sobre Linux, administração de sistemas, automação, Python e muito mais — tanto em inglês quanto em português.&lt;/p&gt;
+&lt;p&gt;Fique ligado!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

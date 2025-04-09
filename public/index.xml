@@ -5,35 +5,65 @@
     <link>http://localhost:1313/</link>
     <description>Recent content on Eloy Melo</description>
     <generator>Hugo -- 0.145.0</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 08 Apr 2025 11:57:06 -0300</lastBuildDate>
+    <language>pt</language>
+    <lastBuildDate>Tue, 08 Apr 2025 11:57:13 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Contact Me</title>
-      <link>http://localhost:1313/contact/</link>
-      <pubDate>Tue, 08 Apr 2025 11:57:06 -0300</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
-      <description>&lt;p&gt;Have a question, want to collaborate, or just want to say &amp;ldquo;hi&amp;rdquo;? Feel free to reach out through any of the channels below.&lt;/p&gt;
-&lt;p&gt;E-mail: &lt;a href=&#34;mailto:contact@eloymelo.com&#34;&gt;contact@eloymelo.com&lt;/a&gt;&lt;/p&gt;
+      <title>Contato</title>
+      <link>http://localhost:1313/contato/</link>
+      <pubDate>Tue, 08 Apr 2025 11:57:13 -0300</pubDate>
+      <guid>http://localhost:1313/contato/</guid>
+      <description>&lt;p&gt;Tem uma pergunta, quer colaborar, ou apenas quer mandar um &amp;ldquo;oi&amp;rdquo;? Sinta-se à vontade para entrar em contato por meio de um dos canais abaixo:&lt;/p&gt;
+&lt;p&gt;Email: &lt;a href=&#34;mailto:contact@eloymelo.com&#34;&gt;contato@eloymelo.com&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/eloymelo&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/eloymelo/&#34;&gt;LinkedIn&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/@eloymelo&#34;&gt;YouTube Channel&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/@eloymelo&#34;&gt;Canal no YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Um Website Simples</title>
+      <link>http://localhost:1313/publica%C3%A7%C3%B5es/just-a-simple-website/</link>
+      <pubDate>Tue, 08 Apr 2025 08:57:12 -0300</pubDate>
+      <guid>http://localhost:1313/publica%C3%A7%C3%B5es/just-a-simple-website/</guid>
+      <description>&lt;p&gt;Quando eu pensei, pela primeira vez, em hospedar um site, eu nunca quis criar algo cheio de &amp;ldquo;bloat&amp;rdquo; com muito JavaScript como muitos sites fazem hoje em dia. Não me entenda errado, existem vários sites que são muitos bonitos, funcionais e eles têm usam bastante CSS e JavaScript; é que não é minha praia esse tipo de website&amp;hellip; Eu estava a procurar por algo simples e funcional, é o motivo pelo qual eu escolhi a framework do &lt;a href=&#34;https://github.com/gohugoio/hugo&#34;&gt;Hugo&lt;/a&gt; + o tema &lt;a href=&#34;https://github.com/adityatelange/hugo-PaperMod&#34;&gt;PaperMod&lt;/a&gt;, e permita-me falar: estou &lt;strong&gt;muito&lt;/strong&gt; feliz de ter escolhido essa combinação.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Just a Simple Website</title>
-      <link>http://localhost:1313/posts/just-a-simple-website/</link>
+      <link>http://localhost:1313/publica%C3%A7%C3%B5es/just-a-simple-website.en/</link>
       <pubDate>Tue, 08 Apr 2025 08:57:01 -0300</pubDate>
-      <guid>http://localhost:1313/posts/just-a-simple-website/</guid>
+      <guid>http://localhost:1313/publica%C3%A7%C3%B5es/just-a-simple-website.en/</guid>
       <description>&lt;p&gt;When I first thought of hosting a website, I never wanted to create something too bloated with a bunch of JavaScript like many websites out there. Don&amp;rsquo;t get me wrong, there are many websites that look great and they have tons of CSS and JavaScript; but that approach is not my cup of tea&amp;hellip; I was looking for something simple and functional, that&amp;rsquo;s why I went with the &lt;a href=&#34;https://github.com/gohugoio/hugo&#34;&gt;Hugo&lt;/a&gt; framework + &lt;a href=&#34;https://github.com/adityatelange/hugo-PaperMod&#34;&gt;PaperMod&lt;/a&gt; theme, and I&amp;rsquo;m &lt;strong&gt;really&lt;/strong&gt; glad that I did that.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hello, Hugo</title>
-      <link>http://localhost:1313/posts/hello-hugo/</link>
+      <link>http://localhost:1313/projetos/projetos/</link>
       <pubDate>Tue, 08 Apr 2025 01:16:05 -0300</pubDate>
-      <guid>http://localhost:1313/posts/hello-hugo/</guid>
+      <guid>http://localhost:1313/projetos/projetos/</guid>
+      <description>&lt;p&gt;Linux documentation project&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hello, Hugo</title>
+      <link>http://localhost:1313/publica%C3%A7%C3%B5es/hello-hugo.en/</link>
+      <pubDate>Tue, 08 Apr 2025 01:16:05 -0300</pubDate>
+      <guid>http://localhost:1313/publica%C3%A7%C3%B5es/hello-hugo.en/</guid>
       <description>&lt;p&gt;UPDATE: Hey there! This is my very first post here.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m setting up this website as a hybrid portfolio + learning log. It&amp;rsquo;ll be a place where I write about Linux, system administration, automation, Python, and more — both in &lt;strong&gt;English and Portuguese&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Stay tuned!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Olá, Hugo</title>
+      <link>http://localhost:1313/publica%C3%A7%C3%B5es/hello-hugo/</link>
+      <pubDate>Tue, 08 Apr 2025 01:16:05 -0300</pubDate>
+      <guid>http://localhost:1313/publica%C3%A7%C3%B5es/hello-hugo/</guid>
+      <description>&lt;p&gt;ATUALIZAÇÃO: Olá! Este é o meu primeiro post aqui.&lt;/p&gt;
+&lt;p&gt;Estou montando este site como espaço híbrido de portfólio + diário de aprendizado. Será um espaço onde vou escrever sobre Linux, administração de sistemas, automação, Python e muito mais — tanto em inglês quanto em português.&lt;/p&gt;
+&lt;p&gt;Fique ligado!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pós Instalação Arch Linux</title>
+      <link>http://localhost:1313/tutoriais/instalacao-arch/</link>
+      <pubDate>Tue, 08 Apr 2025 01:16:05 -0300</pubDate>
+      <guid>http://localhost:1313/tutoriais/instalacao-arch/</guid>
+      <description>&lt;p&gt;Um tutorial simples de pós instalação do Arch.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

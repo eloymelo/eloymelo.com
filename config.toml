@@ -1,8 +1,8 @@
 baseURL = "https://eloymelo.com/"
 title = "Eloy Melo"
 theme = "PaperMod"
-languageCode = "en"
-defaultContentLanguage = "en"
+languageCode = "pt"
+defaultContentLanguage = "pt"
 
 [pagination]
 pagerSize = 10
@@ -19,64 +19,33 @@ enableRobotsTXT = true
   ShowDate = true
   DisableRelativeTime = true
 
-[languages.en]
-    languageName = "English"
-    weight = 1
-    [languages.en.params]
-      DateFormat = "2 January 2006"
-
-    [[languages.en.menu.main]]
-      name = "About"
-      url = "/about/"
-      weight = 1
-
-    [[languages.en.menu.main]]
-      name = "Posts"
-      url = "/posts/"
-      weight = 2
-
-    [[languages.en.menu.main]]
-      name = "Projects"
-      url = "/projects/"
-      weight = 3
-
-    [[languages.en.menu.main]]
-      name = "Tutorials"
-      url = "/tutorials/"
-      weight = 4
-
-    [[languages.en.menu.main]]
-      name = "Contact"
-      url = "/contact/"
-      weight = 5
-
-  [languages.pt]
+[languages.pt]
     languageName = "Português"
-    weight = 2
+    weight = 1
     [languages.pt.params]
       DateFormat = "2 de January de 2006"
 
     [[languages.pt.menu.main]]
       name = "Sobre"
-      url = "/about/"
+      url = "/sobre/"
       weight = 1
 
     [[languages.pt.menu.main]]
       name = "Publicações"
-      url = "/posts/"
+      url = "/publicações/"
       weight = 2
 
     [[languages.pt.menu.main]]
       name = "Projetos"
-      url = "/projects/"
+      url = "/projetos/"
       weight = 3
 
     [[languages.pt.menu.main]]
       name = "Tutoriais"
-      url = "/tutorials/"
+      url = "/tutoriais/"
       weight = 4
 
     [[languages.pt.menu.main]]
       name = "Contato"
-      url = "/contact/"
+      url = "/contato/"
       weight = 5

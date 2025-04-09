@@ -1,18 +1,48 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>http://localhost:1313/en/sitemap.xml</loc>
-    
-      <lastmod>2025-04-08T11:57:06-03:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>http://localhost:1313/pt/sitemap.xml</loc>
-    
-      <lastmod>2025-04-08T11:57:13-03:00</lastmod>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/contato/</loc>
+    <lastmod>2025-04-08T11:57:13-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/contato/</loc>
+    <lastmod>2025-04-08T11:57:13-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-04-08T11:57:13-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publica%C3%A7%C3%B5es/</loc>
+    <lastmod>2025-04-08T08:57:12-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publica%C3%A7%C3%B5es/just-a-simple-website/</loc>
+    <lastmod>2025-04-08T08:57:12-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publica%C3%A7%C3%B5es/just-a-simple-website.en/</loc>
+    <lastmod>2025-04-08T08:57:01-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projetos/projetos/</loc>
+    <lastmod>2025-04-08T01:16:05-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publica%C3%A7%C3%B5es/hello-hugo.en/</loc>
+    <lastmod>2025-04-08T01:16:05-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publica%C3%A7%C3%B5es/hello-hugo/</loc>
+    <lastmod>2025-04-08T01:16:05-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tutoriais/instalacao-arch/</loc>
+    <lastmod>2025-04-08T01:16:05-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projetos/</loc>
+    <lastmod>2025-04-08T01:16:05-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tutoriais/</loc>
+    <lastmod>2025-04-08T01:16:05-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/sobre/</loc>
+    <lastmod>2025-04-08T01:15:03-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+  </url>
+</urlset>
