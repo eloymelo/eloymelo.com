@@ -2,14 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/contact/</loc>
-    <lastmod>2025-04-08T11:57:13-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/contact/</loc>
-    <lastmod>2025-04-08T11:57:13-03:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/en/</loc>
-    <lastmod>2025-04-08T11:57:13-03:00</lastmod>
+    <lastmod>2025-04-09T00:10:06-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -21,94 +15,37 @@
                 href="http://localhost:1313/en/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/tutorials/fedora-post-install/</loc>
+    <lastmod>2025-04-09T00:10:06-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/tutorials/</loc>
+    <lastmod>2025-04-09T00:10:06-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/tutorials/debian-post-install/</loc>
+    <lastmod>2025-04-09T00:05:35-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/contact/</loc>
+    <lastmod>2025-04-08T11:57:13-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/contact/</loc>
+    <lastmod>2025-04-08T11:57:13-03:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/en/posts/just-a-simple-website/</loc>
     <lastmod>2025-04-08T08:57:01-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://localhost:1313/pt/posts/just-a-simple-website/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/posts/just-a-simple-website/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/publica%C3%A7%C3%B5es/just-a-simple-website/</loc>
-    <lastmod>2025-04-08T08:57:01-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://localhost:1313/pt/publica%C3%A7%C3%B5es/just-a-simple-website/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/publica%C3%A7%C3%B5es/just-a-simple-website/"
-                />
   </url><url>
     <loc>http://localhost:1313/en/posts/</loc>
     <lastmod>2025-04-08T08:57:01-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://localhost:1313/pt/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/posts/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/publica%C3%A7%C3%B5es/</loc>
-    <lastmod>2025-04-08T08:57:01-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://localhost:1313/pt/publica%C3%A7%C3%B5es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/publica%C3%A7%C3%B5es/"
-                />
   </url><url>
     <loc>http://localhost:1313/tutorials/</loc>
     <lastmod>2025-04-08T01:16:05-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/en/posts/hello-hugo/</loc>
     <lastmod>2025-04-08T01:16:05-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://localhost:1313/pt/posts/hello-hugo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/posts/hello-hugo/"
-                />
   </url><url>
     <loc>http://localhost:1313/en/projects/projetos/</loc>
     <lastmod>2025-04-08T01:16:05-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/publica%C3%A7%C3%B5es/hello-hugo/</loc>
-    <lastmod>2025-04-08T01:16:05-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://localhost:1313/pt/publica%C3%A7%C3%B5es/hello-hugo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/publica%C3%A7%C3%B5es/hello-hugo/"
-                />
-  </url><url>
     <loc>http://localhost:1313/en/projects/</loc>
-    <lastmod>2025-04-08T01:16:05-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/tutorials/</loc>
     <lastmod>2025-04-08T01:16:05-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/en/about/</loc>

@@ -1,26 +1,26 @@
 <!DOCTYPE html>
-<html lang="en" dir="auto">
+<html lang="pt" dir="auto">
 
 <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="noindex, nofollow">
-<title>Arch Post Install | Eloy Melo</title>
+<title>Arch Pós-Instalação | Eloy Melo</title>
 <meta name="keywords" content="">
 <meta name="description" content="
-Update the system:
+Atualize o sistema:
 
 sudo pacman -Syu
 
-Install vim (or other text editor)
+Instale o vim (ou outro editor de texto)
 
 sudo pacman -S vim git 
 
-Open /etc/pacman.conf and make the following changes in order to improve the overall experience.
+Edite /etc/pacman.conf e faça as seguintes mudanças para melhorar experiência com pacman.
 
 sudo vim /etc/pacman.conf
 
-Remove the # from Color and ParallelDownloads.
+Remova o # de Color e ParallelDownloads.
 
 # Misc options
 #UseSyslog
@@ -30,7 +30,7 @@ CheckSpace
 #VerbosePkgLists
 ParallelDownloads = 5
 
-Update the system:
+Atualize o sistema:
 
 sudo pacman -Sy
 
@@ -39,7 +39,7 @@ Install reflector so you can get the most up-to-date mirrors. You can also choos
 sudo pacman -S reflector
 Create a backup of the mirrorlist file.">
 <meta name="author" content="Eloy Melo">
-<link rel="canonical" href="http://localhost:1313/tutorials/">
+<link rel="canonical" href="http://localhost:1313/pt/tutoriais/arch-pos-instalacao/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.6da9a63d25a9608bca2f7f907a030e887a7dd3c3f3918e4cc113129361414bda.css" integrity="sha256-bammPSWpYIvKL3&#43;QegMOiHp908PzkY5MwRMSk2FBS9o=" rel="preload stylesheet" as="style">
 <link rel="icon" href="http://localhost:1313/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
@@ -48,7 +48,7 @@ Create a backup of the mirrorlist file.">
 <link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" hreflang="en" href="http://localhost:1313/tutorials/">
+<link rel="alternate" hreflang="pt" href="http://localhost:1313/pt/tutoriais/arch-pos-instalacao/">
 <noscript>
     <style>
         #theme-toggle,
@@ -103,7 +103,7 @@ Create a backup of the mirrorlist file.">
 <header class="header">
     <nav class="nav">
         <div class="logo">
-            <a href="http://localhost:1313/en/" accesskey="h" title="Eloy Melo (Alt + H)">Eloy Melo</a>
+            <a href="http://localhost:1313/pt/" accesskey="h" title="Eloy Melo (Alt + H)">Eloy Melo</a>
             <div class="logo-switches">
                 <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
                     <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
@@ -127,36 +127,36 @@ Create a backup of the mirrorlist file.">
                 </button>
                 <ul class="lang-switch"><li>|</li>
                     <li>
-                        <a href="http://localhost:1313/pt/" title="Português"
-                            aria-label="Português">Pt</a>
+                        <a href="http://localhost:1313/en/" title="English"
+                            aria-label="English">En</a>
                     </li>
                 </ul>
             </div>
         </div>
         <ul id="menu">
             <li>
-                <a href="http://localhost:1313/en/about/" title="About">
-                    <span>About</span>
+                <a href="http://localhost:1313/pt/sobre/" title="Sobre">
+                    <span>Sobre</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/en/posts/" title="Posts">
-                    <span>Posts</span>
+                <a href="http://localhost:1313/pt/publica%C3%A7%C3%B5es/" title="Publicações">
+                    <span>Publicações</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/en/projects/" title="Projects">
-                    <span>Projects</span>
+                <a href="http://localhost:1313/pt/projetos/" title="Projetos">
+                    <span>Projetos</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/en/tutorials/" title="Tutorials">
-                    <span>Tutorials</span>
+                <a href="http://localhost:1313/pt/tutoriais/" title="Tutoriais">
+                    <span>Tutoriais</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/en/contact/" title="Contact">
-                    <span>Contact</span>
+                <a href="http://localhost:1313/pt/contato/" title="Contato">
+                    <span>Contato</span>
                 </a>
             </li>
         </ul>
@@ -166,28 +166,28 @@ Create a backup of the mirrorlist file.">
 
 <article class="post-single">
   <header class="post-header">
-    <div class="breadcrumbs"><a href="http://localhost:1313/en/">Home</a>&nbsp;»&nbsp;<a href="http://localhost:1313/en/tutorials/">Tutorials</a></div>
+    <div class="breadcrumbs"><a href="http://localhost:1313/pt/">Início</a>&nbsp;»&nbsp;<a href="http://localhost:1313/pt/tutoriais/">Tutoriais</a></div>
     <h1 class="post-title entry-hint-parent">
-      Arch Post Install
+      Arch Pós-Instalação
     </h1>
-    <div class="post-meta"><span title='2025-04-08 01:16:05 -0300 -03'>8 April 2025</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;Eloy Melo
+    <div class="post-meta"><span title='2025-04-09 00:19:08 -0300 -03'>9 de abril de 2025</span>&nbsp;·&nbsp;2 minutos&nbsp;·&nbsp;Eloy Melo
 
 </div>
   </header> 
   <div class="post-content"><ol>
-<li>Update the system:</li>
+<li>Atualize o sistema:</li>
 </ol>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>sudo pacman -Syu
 </span></span></code></pre></div><ol start="2">
-<li>Install vim (or other text editor)</li>
+<li>Instale o vim (ou outro editor de texto)</li>
 </ol>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>sudo pacman -S vim git 
 </span></span></code></pre></div><ol start="3">
-<li>Open <strong>/etc/pacman.conf</strong> and make the following changes in order to improve the overall experience.</li>
+<li>Edite <strong>/etc/pacman.conf</strong> e faça as seguintes mudanças para melhorar experiência com pacman.</li>
 </ol>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>sudo vim /etc/pacman.conf
 </span></span></code></pre></div><ol start="4">
-<li>Remove the <strong>#</strong> from <strong>Color</strong> and <strong>ParallelDownloads</strong>.</li>
+<li>Remova o <strong>#</strong> de <strong>Color</strong> e <strong>ParallelDownloads</strong>.</li>
 </ol>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-plaintext" data-lang="plaintext"><span style="display:flex;"><span># Misc options
 </span></span><span style="display:flex;"><span>#UseSyslog
@@ -197,7 +197,7 @@ Create a backup of the mirrorlist file.">
 </span></span><span style="display:flex;"><span>#VerbosePkgLists
 </span></span><span style="display:flex;"><span>ParallelDownloads = 5
 </span></span></code></pre></div><ol start="5">
-<li>Update the system:</li>
+<li>Atualize o sistema:</li>
 </ol>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>sudo pacman -Sy
 </span></span></code></pre></div><ol start="6">
@@ -294,20 +294,13 @@ Create a backup of the mirrorlist file.">
   <footer class="post-footer">
     <ul class="post-tags">
     </ul>
-<nav class="paginav">
-  <a class="prev" href="http://localhost:1313/en/tutorials/debian-post-install/">
-    <span class="title">« Prev</span>
-    <br>
-    <span>Debian Post Install</span>
-  </a>
-</nav>
 
   </footer>
 </article>
     </main>
     
 <footer class="footer">
-        <span>&copy; 2025 <a href="http://localhost:1313/en/">Eloy Melo</a></span> · 
+        <span>&copy; 2025 <a href="http://localhost:1313/pt/">Eloy Melo</a></span> · 
 
     <span>
         Powered by
@@ -381,12 +374,12 @@ Create a backup of the mirrorlist file.">
 
         const copybutton = document.createElement('button');
         copybutton.classList.add('copy-code');
-        copybutton.innerHTML = 'copy';
+        copybutton.innerHTML = 'copiar';
 
         function copyingDone() {
-            copybutton.innerHTML = 'copied!';
+            copybutton.innerHTML = 'copiado!';
             setTimeout(() => {
-                copybutton.innerHTML = 'copy';
+                copybutton.innerHTML = 'copiar';
             }, 2000);
         }
 

@@ -1,29 +1,28 @@
 ---
-title: "Arch Post Install"
-date: 2025-04-08T01:16:05-03:00
-url: "/tutorials/"
+title: "Arch Pós-Instalação"
+date: 2025-04-09T00:19:08-03:00
 draft: false
 ---
 
-1. Update the system:
+1. Atualize o sistema:
 
 ```bash
 sudo pacman -Syu
 ```
 
-2. Install vim (or other text editor)
+2. Instale o vim (ou outro editor de texto)
 
 ```bash
 sudo pacman -S vim git 
 ```
 
-3. Open **/etc/pacman.conf** and make the following changes in order to improve the overall experience.
+3. Edite **/etc/pacman.conf** e faça as seguintes mudanças para melhorar experiência com pacman.
 
 ```bash
 sudo vim /etc/pacman.conf
 ```
 
-4. Remove the **#** from **Color** and **ParallelDownloads**. 
+4. Remova o **#** de **Color** e **ParallelDownloads**. 
 
 ```plaintext
 # Misc options
@@ -35,7 +34,7 @@ CheckSpace
 ParallelDownloads = 5
 ```
 
-5. Update the system:
+5. Atualize o sistema:
 ```bash
 sudo pacman -Sy
 ```
