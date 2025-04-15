@@ -6,8 +6,16 @@
     <description>Recent content in Posts on Eloy Melo</description>
     <generator>Hugo -- 0.146.4</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 08 Apr 2025 08:57:01 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 15 Apr 2025 02:21:23 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>This Website is a Work in Progress</title>
+      <link>http://localhost:1313/posts/work-in-progress/</link>
+      <pubDate>Tue, 15 Apr 2025 02:21:23 -0300</pubDate>
+      <guid>http://localhost:1313/posts/work-in-progress/</guid>
+      <description>&lt;p&gt;Hello! As you can see, this website still is a work in progress. So you&amp;rsquo;ll likely see a lot of things out of order. I just wanted to make this clear, just in case you see some broke links or something. I&amp;rsquo;ll do my best to keep the &amp;ldquo;Tutorials&amp;rdquo; section functional at all times, since I&amp;rsquo;ll be focusing on it at this time.&lt;/p&gt;
+&lt;p&gt;That&amp;rsquo;s it for now, see you on the next one. Bye!&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Just a Simple Website</title>
       <link>http://localhost:1313/posts/just-a-simple-website/</link>
