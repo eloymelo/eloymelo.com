@@ -1,6 +1,7 @@
 ---
 title: "Fedora Post Install"
 date: 2025-04-09T00:10:06-03:00
+url: "/tutorials/fedora-post-install/"
 draft: false
 ---
 

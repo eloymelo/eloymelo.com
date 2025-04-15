@@ -1,6 +1,7 @@
 ---
 title: "Debian Post Install"
 date: 2025-04-09T00:05:35-03:00
+url: "/tutorials/debian-post-install/"
 draft: false
 ---
 

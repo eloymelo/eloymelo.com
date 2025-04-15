@@ -5,9 +5,13 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="noindex, nofollow">
-<title>Contacts | Eloy Melo</title>
+<title>Contact | Eloy Melo</title>
 <meta name="keywords" content="">
-<meta name="description" content="Contacts - Eloy Melo">
+<meta name="description" content="Got a question, want to collaborate, or just want to say &ldquo;hi&rdquo;? Feel free to get in touch through one of the channels below:
+Email: contato@eloymelo.com
+GitHub
+LinkedIn
+YouTube Channel">
 <meta name="author" content="Eloy Melo">
 <link rel="canonical" href="http://localhost:1313/contact/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.f49d66caae9ea0fd43f21f29e71a8d3e284517ed770f2aa86fa012953ad3c9ef.css" integrity="sha256-9J1myq6eoP1D8h8p5xqNPihFF&#43;13Dyqob6ASlTrTye8=" rel="preload stylesheet" as="style">
@@ -18,7 +22,6 @@
 <link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/contact/index.xml">
 <link rel="alternate" hreflang="en" href="http://localhost:1313/contact/">
 <noscript>
     <style>
@@ -59,7 +62,7 @@
 </noscript>
 </head>
 
-<body class="list" id="top">
+<body class="" id="top">
 <script>
     if (localStorage.getItem("pref-theme") === "dark") {
         document.body.classList.add('dark');
@@ -127,28 +130,32 @@
         </ul>
     </nav>
 </header>
-<main class="main"> 
-<header class="page-header"><div class="breadcrumbs"><a href="http://localhost:1313/">Home</a></div>
-  <h1>
-    Contacts
-  </h1>
-</header>
+<main class="main">
 
-<article class="post-entry"> 
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">Contact
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>Got a question, want to collaborate, or just want to say “hi”? Feel free to get in touch through one of the channels below:
-Email: contato@eloymelo.com
-GitHub
-LinkedIn
-YouTube Channel
-</p>
+<article class="post-single">
+  <header class="post-header">
+    <div class="breadcrumbs"><a href="http://localhost:1313/">Home</a>&nbsp;»&nbsp;<a href="http://localhost:1313/contact/">Contacts</a></div>
+    <h1 class="post-title entry-hint-parent">
+      Contact
+    </h1>
+    <div class="post-meta"><span title='2025-04-08 11:57:13 -0300 -03'>April 8, 2025</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;Eloy Melo
+
+</div>
+  </header> 
+  <div class="post-content"><p>Got a question, want to collaborate, or just want to say &ldquo;hi&rdquo;? Feel free to get in touch through one of the channels below:</p>
+<p>Email: <a href="mailto:contact@eloymelo.com">contato@eloymelo.com</a></p>
+<p><a href="https://github.com/eloymelo">GitHub</a></p>
+<p><a href="https://www.linkedin.com/in/eloymelo/">LinkedIn</a></p>
+<p><a href="https://www.youtube.com/@eloymelo">YouTube Channel</a></p>
+
+
   </div>
-  <footer class="entry-footer"><span title='2025-04-08 11:57:13 -0300 -03'>April 8, 2025</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;Eloy Melo</footer>
-  <a class="entry-link" aria-label="post link to Contact" href="http://localhost:1313/contact/"></a>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+    </ul>
+
+  </footer>
 </article>
     </main>
     
@@ -220,6 +227,53 @@ YouTube Channel
         }
     })
 
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerHTML = 'copy';
+
+        function copyingDone() {
+            copybutton.innerHTML = 'copied!';
+            setTimeout(() => {
+                copybutton.innerHTML = 'copy';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
 </script>
 </body>
 

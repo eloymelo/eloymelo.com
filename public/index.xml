@@ -105,9 +105,9 @@
     </item>
     <item>
       <title>Arch Post Install</title>
-      <link>http://localhost:1313/tutorials/</link>
+      <link>http://localhost:1313/tutorials/arch-post-install/</link>
       <pubDate>Tue, 08 Apr 2025 01:16:05 -0300</pubDate>
-      <guid>http://localhost:1313/tutorials/</guid>
+      <guid>http://localhost:1313/tutorials/arch-post-install/</guid>
       <description>&lt;ol&gt;
 &lt;li&gt;Update the system:&lt;/li&gt;
 &lt;/ol&gt;
