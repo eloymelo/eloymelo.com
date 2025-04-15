@@ -8,7 +8,7 @@ draft: false
 
 Got a question, want to collaborate, or just want to say "hi"? Feel free to get in touch through one of the channels below:
 
-Email: [contato@eloymelo.com](mailto:contact@eloymelo.com)
+Email: [contact@eloymelo.com](mailto:contact@eloymelo.com)
 
 [GitHub](https://github.com/eloymelo)
 
