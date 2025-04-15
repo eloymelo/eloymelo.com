@@ -1,8 +1,8 @@
 ---
 title: "About Me"
-#url: "/about/"
+url: "/about/"
 date: 2025-04-08T01:15:03-03:00
-layout: "page"
+#layout: "page"
 draft: false
 ---
 
