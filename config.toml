@@ -1,48 +1,92 @@
 baseURL = "https://eloymelo.com/"
 title = "Eloy Melo"
 theme = "PaperMod"
-languageCode = "en"
-defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = false
-
 enableRobotsTXT = true
+
+# PT-BR como idioma padrão
+defaultContentLanguage = "pt"
+defaultContentLanguageInSubdir = false
 
 [pagination]
   pagerSize = 10
 
-[params]
-  author = "Eloy Melo"
-  showReadingTime = true
-  defaultTheme = "auto"
-  ShowShareButtons = false
-  ShowPostNavLinks = true
-  ShowBreadCrumbs = true
-  ShowCodeCopyButtons = true
-  ShowDate = true
-  DisableRelativeTime = true
-  DateFormat = "2 January 2006"
+[languages]
+  [languages.pt]
+    languageName = "Português"
+    languageCode = "pt-BR"
+    weight = 1
+    title = "Eloy Melo"
+    
+    [languages.pt.params]
+      author = "Eloy Melo"
+      description = "Profissional de TI em Transição para Desenvolvimento Backend"
+      showReadingTime = true
+      defaultTheme = "auto"
+      ShowShareButtons = false
+      ShowPostNavLinks = true
+      ShowBreadCrumbs = true
+      ShowCodeCopyButtons = true
+      ShowDate = true
+      DisableRelativeTime = true
+      DateFormat = "2 January 2006"
+    
+    [[languages.pt.menu.main]]
+      name = "Sobre"
+      url = "/about/"
+      weight = 1
+    [[languages.pt.menu.main]]
+      name = "Posts"
+      url = "/posts/"
+      weight = 2
+    [[languages.pt.menu.main]]
+      name = "Projetos"
+      url = "/projects/"
+      weight = 3
+    [[languages.pt.menu.main]]
+      name = "Tutoriais"
+      url = "/tutorials/"
+      weight = 4
+    [[languages.pt.menu.main]]
+      name = "Contato"
+      url = "/contact/"
+      weight = 5
 
-[[menu.main]]
-  name = "About"
-  url = "/about/"
-  weight = 1
-
-[[menu.main]]
-  name = "Posts"
-  url = "/posts/"
-  weight = 2
-
-[[menu.main]]
-  name = "Projects"
-  url = "/projects/"
-  weight = 3
-
-[[menu.main]]
-  name = "Tutorials"
-  url = "/tutorials/"
-  weight = 4
-
-[[menu.main]]
-  name = "Contact"
-  url = "/contact/"
-  weight = 5
+  [languages.en]
+    languageName = "English"
+    languageCode = "en-US"
+    weight = 2
+    title = "Eloy Melo"
+    
+    [languages.en.params]
+      author = "Eloy Melo"
+      description = "IT Professional Transitioning to Backend Development"
+      showReadingTime = true
+      defaultTheme = "auto"
+      ShowShareButtons = false
+      ShowPostNavLinks = true
+      ShowBreadCrumbs = true
+      ShowCodeCopyButtons = true
+      ShowDate = true
+      DisableRelativeTime = true
+      DateFormat = "2 January 2006"
+    
+    [[languages.en.menu.main]]
+      name = "About"
+      url = "/en/about/"
+      weight = 1
+    [[languages.en.menu.main]]
+      name = "Posts"
+      url = "/en/posts/"
+      weight = 2
+    [[languages.en.menu.main]]
+      name = "Projects"
+      url = "/en/projects/"
+      weight = 3
+    [[languages.en.menu.main]]
+      name = "Tutorials"
+      url = "/en/tutorials/"
+      weight = 4
+    [[languages.en.menu.main]]
+      name = "Contact"
+      url = "/en/contact/"
+      weight = 5

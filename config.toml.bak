@@ -1,0 +1,48 @@
+baseURL = "https://eloymelo.com/"
+title = "Eloy Melo"
+theme = "PaperMod"
+languageCode = "en"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+
+enableRobotsTXT = true
+
+[pagination]
+  pagerSize = 10
+
+[params]
+  author = "Eloy Melo"
+  showReadingTime = true
+  defaultTheme = "auto"
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowDate = true
+  DisableRelativeTime = true
+  DateFormat = "2 January 2006"
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 1
+
+[[menu.main]]
+  name = "Posts"
+  url = "/posts/"
+  weight = 2
+
+[[menu.main]]
+  name = "Projects"
+  url = "/projects/"
+  weight = 3
+
+[[menu.main]]
+  name = "Tutorials"
+  url = "/tutorials/"
+  weight = 4
+
+[[menu.main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 5
