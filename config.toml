@@ -3,12 +3,52 @@ title = "Eloy Melo"
 theme = "PaperMod"
 enableRobotsTXT = true
 
-# PT-BR como idioma padrão
-defaultContentLanguage = "pt"
+# English as the default language
+defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 
 [pagination]
   pagerSize = 10
+
+  [languages.en]
+    languageName = "English"
+    languageCode = "en-US"
+    weight = 2
+    title = "Eloy Melo"
+    
+    [languages.en.params]
+      author = "Eloy Melo"
+      description = "IT Professional Transitioning to Backend Development"
+      showReadingTime = true
+      defaultTheme = "auto"
+      ShowShareButtons = false
+      ShowPostNavLinks = true
+      ShowBreadCrumbs = true
+      ShowCodeCopyButtons = true
+      ShowDate = true
+      DisableRelativeTime = true
+      DateFormat = "2 January 2006"
+    
+    [[languages.en.menu.main]]
+      name = "About"
+      url = "/en/about/"
+      weight = 1
+    [[languages.en.menu.main]]
+      name = "Posts"
+      url = "/en/posts/"
+      weight = 2
+    [[languages.en.menu.main]]
+      name = "Projects"
+      url = "/en/projects/"
+      weight = 3
+    [[languages.en.menu.main]]
+      name = "Tutorials"
+      url = "/en/tutorials/"
+      weight = 4
+    [[languages.en.menu.main]]
+      name = "Contact"
+      url = "/en/contact/"
+      weight = 5
 
 [languages]
   [languages.pt]
@@ -49,44 +89,4 @@ defaultContentLanguageInSubdir = false
     [[languages.pt.menu.main]]
       name = "Contato"
       url = "/contact/"
-      weight = 5
-
-  [languages.en]
-    languageName = "English"
-    languageCode = "en-US"
-    weight = 2
-    title = "Eloy Melo"
-    
-    [languages.en.params]
-      author = "Eloy Melo"
-      description = "IT Professional Transitioning to Backend Development"
-      showReadingTime = true
-      defaultTheme = "auto"
-      ShowShareButtons = false
-      ShowPostNavLinks = true
-      ShowBreadCrumbs = true
-      ShowCodeCopyButtons = true
-      ShowDate = true
-      DisableRelativeTime = true
-      DateFormat = "2 January 2006"
-    
-    [[languages.en.menu.main]]
-      name = "About"
-      url = "/en/about/"
-      weight = 1
-    [[languages.en.menu.main]]
-      name = "Posts"
-      url = "/en/posts/"
-      weight = 2
-    [[languages.en.menu.main]]
-      name = "Projects"
-      url = "/en/projects/"
-      weight = 3
-    [[languages.en.menu.main]]
-      name = "Tutorials"
-      url = "/en/tutorials/"
-      weight = 4
-    [[languages.en.menu.main]]
-      name = "Contact"
-      url = "/en/contact/"
       weight = 5
