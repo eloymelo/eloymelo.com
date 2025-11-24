@@ -2,8 +2,7 @@ baseURL = "https://eloymelo.com/"
 title = "Eloy Melo"
 theme = "PaperMod"
 enableRobotsTXT = true
-
-# English as the default language
+languageCode = "en"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 
@@ -31,62 +30,21 @@ defaultContentLanguageInSubdir = false
     
     [[languages.en.menu.main]]
       name = "About"
-      url = "/en/about/"
-      weight = 1
-    [[languages.en.menu.main]]
-      name = "Posts"
-      url = "/en/posts/"
-      weight = 2
-    [[languages.en.menu.main]]
-      name = "Projects"
-      url = "/en/projects/"
-      weight = 3
-    [[languages.en.menu.main]]
-      name = "Tutorials"
-      url = "/en/tutorials/"
-      weight = 4
-    [[languages.en.menu.main]]
-      name = "Contact"
-      url = "/en/contact/"
-      weight = 5
-
-[languages]
-  [languages.pt]
-    languageName = "Português"
-    languageCode = "pt-BR"
-    weight = 1
-    title = "Eloy Melo"
-    
-    [languages.pt.params]
-      author = "Eloy Melo"
-      description = "Profissional de TI em Transição para Desenvolvimento Backend"
-      showReadingTime = true
-      defaultTheme = "auto"
-      ShowShareButtons = false
-      ShowPostNavLinks = true
-      ShowBreadCrumbs = true
-      ShowCodeCopyButtons = true
-      ShowDate = true
-      DisableRelativeTime = true
-      DateFormat = "2 January 2006"
-    
-    [[languages.pt.menu.main]]
-      name = "Sobre"
       url = "/about/"
       weight = 1
-    [[languages.pt.menu.main]]
+    [[languages.en.menu.main]]
       name = "Posts"
       url = "/posts/"
       weight = 2
-    [[languages.pt.menu.main]]
-      name = "Projetos"
+    [[languages.en.menu.main]]
+      name = "Projects"
       url = "/projects/"
       weight = 3
-    [[languages.pt.menu.main]]
-      name = "Tutoriais"
+    [[languages.en.menu.main]]
+      name = "Tutorials"
       url = "/tutorials/"
       weight = 4
-    [[languages.pt.menu.main]]
-      name = "Contato"
+    [[languages.en.menu.main]]
+      name = "Contact"
       url = "/contact/"
       weight = 5
