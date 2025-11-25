@@ -55,7 +55,7 @@ sudo cp /etc/pacman.d/mirrorlist /etc/pacman.d/mirrorlist.bak
 Run this command to get top 10 fastest servers and to also add them to the **mirrorlist**.
 
 ```bash
-sudo reflector --verbose --download-timeout 20 --latest 10 --protocol https --sort rate --save /etc/pacman.d/mirrorlist
+sudo reflector --verbose --download-timeout 5 --latest 10 --protocol https --sort rate --save /etc/pacman.d/mirrorlist
 ```
 
 You can also set by the country adding the **--country "name-of-the-country"** argument.
@@ -63,7 +63,7 @@ You can also set by the country adding the **--country "name-of-the-country"** a
 e.g.: --country "Brazil"
 
 ```bash
-sudo reflector --verbose --country "Brazil" --download-timeout 20 --latest 10 --protocol https --sort rate --save /etc/pacman.d/mirrorlist
+sudo reflector --verbose --country "Brazil" --download-timeout 5 --latest 10 --protocol https --sort rate --save /etc/pacman.d/mirrorlist
 ```
 
 Updated pacman by running this command:
@@ -96,7 +96,7 @@ xdg-user-dirs-update
 9. Install some important tools.
 
 ```bash
-sudo pacman -S p7zip unrar tar rsync git fastfetch htop exfat-utils fuse-exfat ntfs-3g flac jasper aria2 qemu-full virt-manager dnsmasq 
+sudo pacman -S p7zip unrar tar rsync git fastfetch htop exfat-utils fuse-exfat ntfs-3g flac jasper aria2 qemu-full virt-manager dnsmasq ufw gufw zsh
 ```
 
 Bluetooth:
@@ -159,6 +159,8 @@ sudo systemctl enable paccache.timer
 
 12. Install NVIDIA driver.
 
+### Option 1
+
 For standard linux kernel:
 ```bash
 sudo pacman -S nvidia
@@ -167,7 +169,24 @@ For linux-lts kernel:
 ```bash
 sudo pacman -S nvidia-lts
 ```
-Or
+
+### Option 2
+
+Go with thte NVIDIA DKMS
+
+Install the headers for the kernel you chose.
+
+For zen kernel + lts kernel:
+```bash
+sudo pacman -S linux-zen-headers linux-lts-headers
+```
+Then install DKMS:
+
+```bash
+sudo pacman -S nvidia-dkms
+```
+
+### Option 3
 
 For the nvidia-open driver
 ```bash
@@ -204,13 +223,17 @@ sudo systemctl enable preload && sudo systemctl start preload
 15. Install essential packages.
 
 ```bash
-sudo pacman -S enchant mythes-en ttf-liberation noto-fonts hunspell-en_US ttf-bitstream-vera pkgstats adobe-source-sans-pro-fonts gst-plugins-good ttf-droid ttf-dejavu aspell-en icedtea-web gst-libav ttf-ubuntu-font-family ttf-anonymous-pro jre8-openjdk languagetool libmythes hspell hunspell nuspell libvoikko vulkan-radeon papirus-icon-theme gnome-tweaks gnome-themes-extra noto-fonts-cjk noto-fonts-emoji
+sudo pacman -S enchant mythes-en ttf-liberation noto-fonts hunspell-en_US ttf-bitstream-vera pkgstats adobe-source-sans-pro-fonts gst-plugins-good ttf-droid ttf-dejavu aspell-en icedtea-web gst-libav ttf-ubuntu-font-family ttf-anonymous-pro jre8-openjdk languagetool libmythes hspell hunspell nuspell libvoikko vulkan-radeon papirus-icon-theme gnome-tweaks gnome-themes-extra noto-fonts-cjk noto-fonts-emoji vlc-plugins-all rclone vivid vulkan-tools ttf-meslo-nerd
 ```
 
-16. Set up the firewall.
+16. Install some apps.
 
-Click [here](https://github.com/eloymelo/linux-documentation/blob/main/Firewall/firewall-settings.md) and follow the steps.
+    Click [here](https://eloymelo.com/tutorials/arch-apps/) to install my recommended collection of applications.
 
-17. Make the fonts look better.
+17. Set up the firewall.
 
-Click [here](https://github.com/eloymelo/linux-documentation/blob/main/Fonts/fonts.md) and follow the steps.
+    Click [here](https://eloymelo.com/tutorials/arch-firewall/) and follow the steps.
+
+18. Make the fonts look better.
+
+    Click [here](https://eloymelo.com/tutorials/arch-better-fonts/) and follow the steps.
