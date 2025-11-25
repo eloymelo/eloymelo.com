@@ -12,7 +12,7 @@ Automate your Windows software installation with one command.
 
 Open **PowerShell as Administrator** and run:
 ```powershell
-iwr -useb eloymelo.com/scripts/win/setup.ps1 | iex
+iwr -useb "eloymelo.com/scripts/win/setup.ps1" | iex
 ```
 
 An interactive window will appear where you can select packages from my curated collection of 95+ applications.
