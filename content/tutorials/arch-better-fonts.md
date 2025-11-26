@@ -86,7 +86,7 @@ Antialiasing:
 
 Subpixel (for LCD screens)
 ```
-
+***
 ### 5. Optional (Highly Recommended)
 
 Using the FREETYPE_PROPERTIES option for bolder fonts (less pixelated, more like Windows TrueType):
