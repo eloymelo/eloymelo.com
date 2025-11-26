@@ -42,3 +42,6 @@ This will allow localsend to work properly with the ufw rules above.
     sudo pacman -S gufw
     ```
 5. Done.
+
+### Quick Note
+I highly recommend you check out the **[Arch Post Install](https://eloymelo.com/tutorials/arch-post-install/)** guide first If you haven't yet.

@@ -24,7 +24,54 @@ For my use case, I always install Ubuntu fonts.
 sudo pacman -S ttf-ubuntu-font-family
 ```
 
-### 2.1 Open GNOME Tweaks and set the following:
+### 3. Create the following directory and the **fonts.conf** file:
+
+```bash
+mkdir -p ~/.config/fontconfig/
+```
+then
+```bash
+vim ~/.config/fontconfig/fonts.conf
+```
+now paste this setting:
+
+```plaintext
+<?xml version='1.0'?>
+<!DOCTYPE fontconfig SYSTEM 'fonts.dtd'>
+<fontconfig>
+<match target="font">
+    <edit mode="assign" name="antialias">
+        <bool>true</bool>
+    </edit>
+    <edit mode="assign" name="embeddedbitmap">
+        <bool>false</bool>
+    </edit>
+    <edit mode="assign" name="hinting">
+        <bool>true</bool>
+    </edit>
+    <edit mode="assign" name="hintstyle">
+        <const>hintslight</const>
+    </edit>
+    <edit mode="assign" name="lcdfilter">
+        <const>lcddefault</const>
+    </edit>
+    <edit mode="assign" name="rgba">
+        <const>rgb</const>
+    </edit>
+</match>
+</fontconfig>
+```
+
+### 3.1. Run this command to build font cache:
+```bash
+fc-cache -fv
+```
+### 3.2 Reboot your PC.
+```bash
+sudo reboot
+```
+
+### 4. Open GNOME Tweaks and set the following:
 
 ```plaintext 
 Interface Text: Ubuntu
@@ -40,7 +87,7 @@ Antialiasing:
 Subpixel (for LCD screens)
 ```
 
-### 3. Optional (Highly Recommended)
+### 5. Optional (Highly Recommended)
 
 Using the FREETYPE_PROPERTIES option for bolder fonts (less pixelated, more like Windows TrueType):
 
