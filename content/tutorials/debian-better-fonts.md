@@ -1,30 +1,16 @@
 ---
-title: "Arch Better Fonts"
-date: 2025-11-25T09:56:15-03:00
-url: "/tutorials/arch-better-fonts/"
+title: "Debian Better Fonts"
+date: 2025-11-26T01:45:18-03:00
+url: "/tutorials/debian-better-fonts/"
 draft: false
 ---
 
-### 1.  Install the Microsoft Fonts.
+### 1. **Install the Microsoft Fonts using this command:**
 ```bash
-yay -S ttf-ms-fonts 
-yay -S ttf-ms-win11-auto
-yay -S ttf-ms-win10-auto
-```
-Choose one, here I recommend "ttf-ms-fonts".
-
-```bash
-yay -S ttf-ms-fonts
+sudo apt install ttf-mscorefonts-installer -y
 ```
 
-### 2. Install a better text font.
-
-For my use case, I always install Ubuntu fonts.
-```bash
-sudo pacman -S ttf-ubuntu-font-family
-```
-
-### 3. Create the following directory and the **fonts.conf** file:
+### 2. Create the following directory and the **fonts.conf** file:
 
 ```bash
 mkdir -p ~/.config/fontconfig/
@@ -62,16 +48,25 @@ now paste this setting:
 </fontconfig>
 ```
 
-### 3.1. Run this command to build font cache:
+### 3. Run these commmands:
 ```bash
-fc-cache -fv
+# Reconfigure fontconfig
+sudo dpkg-reconfigure fontconfig-config
+
+# Regenerate fonts cache
+sudo dpkg-reconfigure fontconfig
 ```
-### 3.2 Reboot your PC.
+Or just run
+```bash
+sudo fc-cache -fv
+```
+
+### 4. Reboot your PC.
 ```bash
 sudo reboot
 ```
 
-### 4. Open GNOME Tweaks and set the following:
+### 5. Open GNOME Tweaks and set the following:
 
 ```plaintext 
 Interface Text: Ubuntu
@@ -86,7 +81,7 @@ Antialiasing:
 
 Subpixel (for LCD screens)
 ```
-### 5. Optional (Highly Recommended)
+### 6. Optional (Highly Recommended)
 
 Using the FREETYPE_PROPERTIES option for bolder fonts (less pixelated, more like Windows TrueType):
 
@@ -102,4 +97,4 @@ Using the FREETYPE_PROPERTIES option for bolder fonts (less pixelated, more like
 3. Save the changes and reboot the machine
 ***
 ### Quick Note
-I highly recommend you check out the **[Arch Post Install](https://eloymelo.com/tutorials/arch-post-install/)** guide first If you haven't yet.
+I highly recommend you check out the **[Debian Post Install](https://eloymelo.com/tutorials/debian-post-install/)** guide first If you haven't yet.

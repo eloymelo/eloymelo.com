@@ -24,7 +24,7 @@ draft: false
     deb-src http://deb.debian.org/debian bookworm-updates main contrib non-free non-free-firmware
     ```
 
-2. **Enable bookworm backports**
+2. **Enable bookworm backports (it works for Trixie as well)**
 
     Again, using the terminal, edit the file **/etc/apt/sources.list** and add the following lines:
 
@@ -121,17 +121,13 @@ draft: false
 
 9. **Fix broken QT application theme**
 
-    Follow the steps covered under the [GNOME documentation](https://github.com/eloymelo/linux-documentation/tree/main/GNOME).
+    Follow the steps covered under the "Fix Broken QT Themes on Debian" guide.
 
-10. **Font configuration guides**
-
-    There are two guides that I've created; I highly recommend going through them to improve font rendering on Linux.
-
-    [Click here to go direct to the guide 1](https://github.com/eloymelo/linux-documentation/blob/main/Debian/fonts-configuration.md)
-
-    [Click here to go direct to the guide 2](https://github.com/eloymelo/linux-documentation/blob/main/Fonts/fonts.md)
+10. **Font configuration**
+    
+    Follow the steps by clicking **[here.](https://eloymelo.com/tutorials/debian-better-fonts/)**
 
 11. **Set up firewall**
 
-    Follow the steps [here](https://github.com/eloymelo/linux-documentation/blob/main/Firewall/firewall-settings.md)
+    Click [here](https://github.com/eloymelo/linux-documentation/blob/main/Firewall/firewall-settings.md) and follow the steps.
 
