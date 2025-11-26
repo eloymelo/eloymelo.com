@@ -1,7 +1,7 @@
 ---
 title: "Debian Firewall"
 date: 2025-11-26T01:57:35-03:00
-url: "/tutorials/debian-firewall/"
+url: "/tutorials/debian/debian-firewall/"
 draft: false
 ---
 

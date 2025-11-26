@@ -1,16 +1,30 @@
 ---
-title: "Debian Better Fonts"
-date: 2025-11-26T01:45:18-03:00
-url: "/tutorials/debian-better-fonts/"
+title: "Arch Better Fonts"
+date: 2025-11-25T09:56:15-03:00
+url: "/tutorials/arch/arch-better-fonts/"
 draft: false
 ---
 
-### 1. **Install the Microsoft Fonts using this command:**
+### 1.  Install the Microsoft Fonts.
 ```bash
-sudo apt install ttf-mscorefonts-installer -y
+yay -S ttf-ms-fonts 
+yay -S ttf-ms-win11-auto
+yay -S ttf-ms-win10-auto
+```
+Choose one, here I recommend "ttf-ms-fonts".
+
+```bash
+yay -S ttf-ms-fonts
 ```
 
-### 2. Create the following directory and the **fonts.conf** file:
+### 2. Install a better text font.
+
+For my use case, I always install Ubuntu fonts.
+```bash
+sudo pacman -S ttf-ubuntu-font-family
+```
+
+### 3. Create the following directory and the **fonts.conf** file:
 
 ```bash
 mkdir -p ~/.config/fontconfig/
@@ -48,25 +62,16 @@ now paste this setting:
 </fontconfig>
 ```
 
-### 3. Run these commmands:
+### 3.1. Run this command to build font cache:
 ```bash
-# Reconfigure fontconfig
-sudo dpkg-reconfigure fontconfig-config
-
-# Regenerate fonts cache
-sudo dpkg-reconfigure fontconfig
+fc-cache -fv
 ```
-Or just run
-```bash
-sudo fc-cache -fv
-```
-
-### 4. Reboot your PC.
+### 3.2 Reboot your PC.
 ```bash
 sudo reboot
 ```
 
-### 5. Open GNOME Tweaks and set the following:
+### 4. Open GNOME Tweaks and set the following:
 
 ```plaintext 
 Interface Text: Ubuntu
@@ -81,7 +86,7 @@ Antialiasing:
 
 Subpixel (for LCD screens)
 ```
-### 6. Optional (Highly Recommended)
+### 5. Optional (Highly Recommended)
 
 Using the FREETYPE_PROPERTIES option for bolder fonts (less pixelated, more like Windows TrueType):
 
@@ -97,4 +102,4 @@ Using the FREETYPE_PROPERTIES option for bolder fonts (less pixelated, more like
 3. Save the changes and reboot the machine
 ***
 ### Quick Note
-I highly recommend you check out the **[Debian Post Install](https://eloymelo.com/tutorials/debian-post-install/)** guide first If you haven't yet.
+I highly recommend you check out the **[Arch Post Install](https://eloymelo.com/tutorials/arch-post-install/)** guide first If you haven't yet.

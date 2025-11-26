@@ -1,7 +1,7 @@
 ---
 title: "Arch Post Install"
 date: 2025-04-08T01:16:05-03:00
-url: "/tutorials/arch-post-install/"
+url: "/tutorials/arch/arch-post-install/"
 draft: false
 ---
 

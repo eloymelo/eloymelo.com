@@ -1,7 +1,7 @@
 ---
 title: "Arch Firewall"
 date: 2025-11-25T10:15:53-03:00
-url: "/tutorials/arch-firewall/"
+url: "/tutorials/arch/arch-firewall/"
 draft: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Arch Apps"
 date: 2025-11-25T09:24:54-03:00
-url: "/tutorials/arch-apps/"
+url: "/tutorials/arch/arch-apps/"
 draft: false
 ---
 
