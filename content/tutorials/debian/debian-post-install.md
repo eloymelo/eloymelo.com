@@ -121,7 +121,7 @@ draft: false
 
 9. **Fix broken QT application theme**
 
-    Follow the steps covered under the "Fix Broken QT Themes on Debian" guide.
+    Follow the steps covered under the [Fix Broken QT Theme](https://eloymelo.com/tutorials/debian/broken-qt-theme/) guide.
 
 10. **Font configuration**
     
@@ -138,5 +138,3 @@ draft: false
 [**Debian Apps**](https://eloymelo.com/tutorials/debian/debian-apps/)
 
 [**Debian Better Fonts**](https://eloymelo.com/tutorials/debian/debian-better-fonts/)
-
-[**Debian Broken QT Theme**](https://eloymelo.com/tutorials/debian/broken-qt-theme/)
