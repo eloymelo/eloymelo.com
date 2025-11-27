@@ -1,5 +1,5 @@
 ---
-title: "Debian Broken Qt Theme"
+title: "Debian Broken QT Theme"
 date: 2025-11-26T01:58:00-03:00
 url: "/tutorials/debian/debian-broken-qt-theme"
 draft: false
@@ -24,3 +24,13 @@ QT_QPA_PLATFORM=xcb
 ```bash
 sudo reboot
 ```
+***
+### Recommended Guides:
+
+[**Debian Post Install**](https://eloymelo.com/tutorials/debian-post-install/)
+
+[**Debian Apps**](https://eloymelo.com/tutorials/debian/debian-apps/)
+
+[**Debian Firewall**](https://eloymelo.com/tutorials/debian/debian-firewall/)
+
+[**Debian Better Fonts**](https://eloymelo.com/tutorials/debian/debian-better-fonts/)

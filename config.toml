@@ -17,7 +17,7 @@ defaultContentLanguageInSubdir = false
     
     [languages.en.params]
       author = "Eloy Melo"
-      description = "IT Professional Transitioning to Backend Development"
+      description = "IT Professional transitioning from technical support to full-stack development."
       showReadingTime = true
       defaultTheme = "auto"
       ShowShareButtons = false

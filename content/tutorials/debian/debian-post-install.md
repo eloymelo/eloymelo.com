@@ -131,3 +131,12 @@ draft: false
 
     Click [here](https://github.com/eloymelo/linux-documentation/blob/main/Firewall/firewall-settings.md) and follow the steps.
 
+
+***
+### Recommended Guides:
+
+[**Debian Apps**](https://eloymelo.com/tutorials/debian/debian-apps/)
+
+[**Debian Better Fonts**](https://eloymelo.com/tutorials/debian/debian-better-fonts/)
+
+[**Debian Broken QT Theme**](https://eloymelo.com/tutorials/debian/broken-qt-theme/)

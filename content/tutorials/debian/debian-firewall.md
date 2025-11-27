@@ -43,5 +43,12 @@ sudo pacman -S gufw
 ```
 ### 6. Done.
 ***
-### Quick Note
-I highly recommend you check out the **[Debian Post Install](https://eloymelo.com/tutorials/debian-post-install/)** guide first If you haven't yet.
+### Recommended Guides:
+
+[**Debian Post Install**](https://eloymelo.com/tutorials/debian-post-install/)
+
+[**Debian Apps**](https://eloymelo.com/tutorials/debian/debian-apps/)
+
+[**Debian Better Fonts**](https://eloymelo.com/tutorials/debian/debian-better-fonts/)
+
+[**Debian Broken QT Theme**](https://eloymelo.com/tutorials/debian/broken-qt-theme/)
