@@ -69,6 +69,7 @@ sudo dnf install libheif-freeworld
 sudo hostnamectl set-hostname "New_Custom_Name"
 ```
 
-10. **Make fonts look better**
+***
+### Recommended Guides:
 
-Follow this [guide](https://github.com/eloymelo/linux-documentation/blob/main/Fonts/fonts.md) under fonts documentation and this [guide](https://github.com/eloymelo/linux-documentation/blob/main/Fedora/fonts.md) as well.
+[**Fedora Better Fonts**](https://eloymelo.com/tutorials/fedora/fedora-better-fonts/)
