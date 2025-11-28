@@ -225,19 +225,6 @@ sudo systemctl enable preload && sudo systemctl start preload
 ```bash
 sudo pacman -S enchant mythes-en ttf-liberation noto-fonts hunspell-en_US ttf-bitstream-vera pkgstats adobe-source-sans-pro-fonts gst-plugins-good ttf-droid ttf-dejavu aspell-en icedtea-web gst-libav ttf-ubuntu-font-family ttf-anonymous-pro jre8-openjdk languagetool libmythes hspell hunspell nuspell libvoikko vulkan-radeon papirus-icon-theme gnome-tweaks gnome-themes-extra noto-fonts-cjk noto-fonts-emoji vlc-plugins-all rclone vivid vulkan-tools ttf-meslo-nerd
 ```
-
-16. Install some apps.
-
-    Click [here](https://eloymelo.com/tutorials/arch-apps/) to install my recommended collection of applications.
-
-17. Set up the firewall.
-
-    Click [here](https://eloymelo.com/tutorials/arch-firewall/) and follow the steps.
-
-18. Make the fonts look better.
-
-    Click [here](https://eloymelo.com/tutorials/arch-better-fonts/) and follow the steps.
-
 ***
 ### Recommended Guides:
 
