@@ -43,5 +43,10 @@ This will allow localsend to work properly with the ufw rules above.
     ```
 5. Done.
 
-### Quick Note
-I highly recommend you check out the **[Arch Post Install](https://eloymelo.com/tutorials/arch-post-install/)** guide first If you haven't yet.
+### Recommended Guides:
+
+[**Arch Post Install**](https://eloymelo.com/tutorials/arch/arch-post-install/)
+
+[**Arch Better Fonts**](https://eloymelo.com/tutorials/arch/arch-better-fonts/)
+
+[**Arch Firewall**](https://eloymelo.com/tutorials/arch/arch-firewall/)

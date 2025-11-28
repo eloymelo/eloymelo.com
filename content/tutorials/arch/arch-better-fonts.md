@@ -101,5 +101,11 @@ Using the FREETYPE_PROPERTIES option for bolder fonts (less pixelated, more like
     ```
 3. Save the changes and reboot the machine
 ***
-### Quick Note
-I highly recommend you check out the **[Arch Post Install](https://eloymelo.com/tutorials/arch-post-install/)** guide first If you haven't yet.
+***
+### Recommended Guides:
+
+[**Arch Post Install**](https://eloymelo.com/tutorials/arch/arch-post-install/)
+
+[**Arch Apps**](https://eloymelo.com/tutorials/arch/arch-apps/)
+
+[**Arch Firewall**](https://eloymelo.com/tutorials/arch/arch-firewall/)

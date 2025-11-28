@@ -237,3 +237,12 @@ sudo pacman -S enchant mythes-en ttf-liberation noto-fonts hunspell-en_US ttf-bi
 18. Make the fonts look better.
 
     Click [here](https://eloymelo.com/tutorials/arch-better-fonts/) and follow the steps.
+
+***
+### Recommended Guides:
+
+[**Arch Apps**](https://eloymelo.com/tutorials/arch/arch-apps/)
+
+[**Arch Firewall**](https://eloymelo.com/tutorials/arch/arch-firewall/)
+
+[**Arch Better Fonts**](https://eloymelo.com/tutorials/arch/arch-better-fonts/)

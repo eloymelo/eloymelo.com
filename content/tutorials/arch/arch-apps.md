@@ -63,5 +63,11 @@ If you have an EPSON printer, install the following:
     http://localhost:631
     ```
 
-### Quick Note
-I highly recommend you check out the **[Arch Post Install](https://eloymelo.com/tutorials/arch-post-install/)** guide first If you haven't yet.
+***
+### Recommended Guides:
+
+[**Arch Post Install**](https://eloymelo.com/tutorials/arch/arch-post-install/)
+
+[**Arch Firewall**](https://eloymelo.com/tutorials/arch/arch-firewall/)
+
+[**Arch Better Fonts**](https://eloymelo.com/tutorials/arch/arch-better-fonts/)

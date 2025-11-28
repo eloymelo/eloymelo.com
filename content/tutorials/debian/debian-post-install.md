@@ -131,7 +131,6 @@ draft: false
 
     Click [here](https://github.com/eloymelo/linux-documentation/blob/main/Firewall/firewall-settings.md) and follow the steps.
 
-
 ***
 ### Recommended Guides:
 
