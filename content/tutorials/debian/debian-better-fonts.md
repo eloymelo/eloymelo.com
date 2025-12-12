@@ -98,7 +98,7 @@ Using the FREETYPE_PROPERTIES option for bolder fonts (less pixelated, more like
 ***
 ### Recommended Guides:
 
-[**Debian Post Install**](https://eloymelo.com/tutorials/debian-post-install/)
+[**Debian Post Install**](https://eloymelo.com/tutorials/debian/debian-post-install/)
 
 [**Debian Apps**](https://eloymelo.com/tutorials/debian/debian-apps/)
 

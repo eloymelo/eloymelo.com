@@ -52,7 +52,7 @@ If you have an EPSON printer, install the following:
 ***
 ### Recommended Guides:
 
-[**Debian Post Install**](https://eloymelo.com/tutorials/debian-post-install/)
+[**Debian Post Install**](https://eloymelo.com/tutorials/debian/debian-post-install/)
 
 [**Debian Firewall**](https://eloymelo.com/tutorials/debian/debian-firewall/)
 

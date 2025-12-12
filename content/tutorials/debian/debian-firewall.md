@@ -45,7 +45,7 @@ sudo pacman -S gufw
 ***
 ### Recommended Guides:
 
-[**Debian Post Install**](https://eloymelo.com/tutorials/debian-post-install/)
+[**Debian Post Install**](https://eloymelo.com/tutorials/debian/debian-post-install/)
 
 [**Debian Apps**](https://eloymelo.com/tutorials/debian/debian-apps/)
 
