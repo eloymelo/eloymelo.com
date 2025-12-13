@@ -15,18 +15,18 @@ Also see [this article](https://www.linuxuprising.com/2018/05/how-to-get-flatpak
 
 ### 2. Virtual Manager (KVM) ethernet not working
 
-1. Open this file and add the following at the end right under #firewall_backend = "nftables".
+Open this file and add the following at the end right under #firewall_backend = "nftables".
 ```bash
 firewall_backend  = "iptables"
 ```
 
-2. Restart the libvirtd service.
+Restart the libvirtd service.
 
 ```bash
 sudo systemctl restart libvirtd
 ```
 
-3. Now it should work after restarting the VM.
+Now it should work after restarting the VM.
 
 [Source](https://www.reddit.com/r/Fedora/comments/1ggvck8/fedora_41_connectivity_issues_with_virtual/)
 

@@ -18,18 +18,18 @@ sudo dnf install obs-studio steam vlc cheese libreoffice btrfs-assistant menulib
 
 ## Flatpaks
 
-Tube Converter, Signal, Bitwarden, Discord, Flatseal, Heroic Games Launcher, Extension Manager, Blanket, Spotify, MangoHud (Steam Utility), GDM Settings, Constrict, Obsidian, Piper, Pika Backup, Adwaita-dark Theme, LocalSend, MusicBrainz Picard.
+Tube Converter, Signal, Bitwarden, Discord, Flatseal, Heroic Games Launcher, Extension Manager, Blanket, Spotify, MangoHud (Steam Utility), GDM Settings, Constrict, Obsidian, Piper, Pika Backup, Adwaita-dark Theme, LocalSend, MusicBrainz Picard and Spotube.
 
 ### Command to install all of them at once:
 
 ```bash
-flatpak install flathub be.alexandervanhee.gradia com.bitwarden.desktop com.discordapp.Discord com.github.tchx84.Flatseal com.heroicgameslauncher.hgl com.mattjakeman.ExtensionManager com.rafaelmardojai.Blanket com.spotify.Client com.valvesoftware.Steam.Utility.MangoHud io.github.realmazharhussain.GdmSettings io.github.wartybix.Constrict md.obsidian.Obsidian org.freedesktop.Piper org.gnome.World.PikaBackup org.gtk.Gtk3theme.Adwaita-dark org.localsend.localsend_app org.nickvision.tubeconverter org.signal.Signal org.musicbrainz.Picard
+flatpak install flathub be.alexandervanhee.gradia com.bitwarden.desktop com.discordapp.Discord com.github.tchx84.Flatseal com.heroicgameslauncher.hgl com.mattjakeman.ExtensionManager com.rafaelmardojai.Blanket com.spotify.Client com.valvesoftware.Steam.Utility.MangoHud io.github.realmazharhussain.GdmSettings io.github.wartybix.Constrict md.obsidian.Obsidian org.freedesktop.Piper org.gnome.World.PikaBackup org.gtk.Gtk3theme.Adwaita-dark org.localsend.localsend_app org.nickvision.tubeconverter org.signal.Signal org.musicbrainz.Picard com.github.KRTirtho.Spotube
 ```
 
 ### Miscellaneous
 Steamtinkerlaunch -> [Click here](https://github.com/sonic2kk/steamtinkerlaunch).
 
-Shader Booster -> [Click here](https://github.com/psygreg/shader-booster). I also recommend reading the [cachyOS](https://wiki.cachyos.org/configuration/gaming/#increase-maximum-shader-cache-size) guide in order to understand what it does.
+Shader Booster -> [Click here](https://github.com/psygreg/shader-booster). I also recommend reading the [CachyOS](https://wiki.cachyos.org/configuration/gaming/#increase-maximum-shader-cache-size) guide in order to understand what it does.
 
 
 ***
