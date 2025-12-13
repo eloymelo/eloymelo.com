@@ -30,3 +30,11 @@ flatpak install flathub be.alexandervanhee.gradia com.bitwarden.desktop com.disc
 Steamtinkerlaunch -> [Click here](https://github.com/sonic2kk/steamtinkerlaunch).
 
 Shader Booster -> [Click here](https://github.com/psygreg/shader-booster). I also recommend reading the [cachyOS](https://wiki.cachyos.org/configuration/gaming/#increase-maximum-shader-cache-size) guide in order to understand what it does.
+
+
+***
+[**Fedora Post Install**](https://eloymelo.com/tutorials/fedora/fedora-post-install/)
+
+[**Fedora Better Fonts**](https://eloymelo.com/tutorials/fedora/fedora-better-fonts/)
+
+[**Fedora Fixes**](https://eloymelo.com/tutorials/fedora/fedora-fixes/)

@@ -35,3 +35,16 @@ sudo systemctl restart libvirtd
 If you have a NVIDIA card, I suggest you follow the steps covered in [this tutorial](https://github.com/Comprehensive-Wall28/Nvidia-Fedora-Guide) created by [Fady Osama](https://github.com/Comprehensive-Wall28).
 
 Or you can follow the oficial documentation at [HowtoNVIDIA](https://rpmfusion.org/Howto/NVIDIA).
+
+
+### 4. Bluetooth not working
+
+```bash
+sudo dnf reinstall bluez bluez-cups bluez-libs bluez-obexd 
+```
+***
+[**Fedora Post Install**](https://eloymelo.com/tutorials/fedora/fedora-post-install/)
+
+[**Fedora Better Fonts**](https://eloymelo.com/tutorials/fedora/fedora-better-fonts/)
+
+[**Fedora Apps**](https://eloymelo.com/tutorials/fedora/fedora-apps/)

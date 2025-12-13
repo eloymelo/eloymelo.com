@@ -5,25 +5,56 @@ url: "/tutorials/fedora/fedora-better-fonts/"
 draft: false
 ---
 
-### 1. Enable COPR repository:
+### 1. Install Microsoft Fonts
+
+```bash
+sudo dnf install curl cabextract xorg-x11-font-utils fontconfig -y
+```
+And then:
+```bash
+sudo rpm -i https://downloads.sourceforge.net/project/mscorefonts2/rpms/msttcore-fonts-installer-2.6-1.noarch.rpm
+```
+
+### 2. Enable COPR repository (CURRENTLY NOT WORKING FOR FEDORA 43)
 ```bash
 sudo dnf copr enable chriscowleyunix/better_fonts -y
 ```
-### 2. Install packages:
+### Install these packages:
 ```bash
 sudo dnf install fontconfig-font-replacements -y
 ```
-### 3. (Optional) Enable subpixel (rgb) antialiasing:
+### (Optional) Enable subpixel (rgb) antialiasing:
 ```bash
 sudo dnf install fontconfig-enhanced-defaults -y
 ```
+
+### 3. GNOME Tweaks
+Make sure to set "Antialiasing" to "Subpixel (for LCD screens)" and "Rendering" to "Slight".
+
+Basically:
+```plaintext
+Interface Text: Ubuntu
+Document Text: Ubuntu
+Monospace Text: MesloLGS NF
+    
+Rendering (Hinting):
+        
+Slight
+
+Antialiasing:
+
+Subpixel (for LCD screens)
+```
+
+***
+## Optional
 
 ### 4. Create the following directory and the **fonts.conf** file:
 
 ```bash
 mkdir -p ~/.config/fontconfig/
 ```
-then
+then:
 ```bash
 vim ~/.config/fontconfig/fonts.conf
 ```
@@ -56,11 +87,11 @@ now paste this setting:
 </fontconfig>
 ```
 
-### 5. Run this command to build font cache:
+### Run this command to build font cache:
 ```bash
 fc-cache -fv
 ```
-### 6. Reboot your PC.
+### 5. Reboot your PC.
 ```bash
 sudo reboot
 ```
@@ -70,3 +101,7 @@ Source: https://copr.fedorainfracloud.org/coprs/chriscowleyunix/better_fonts/
 ### Recommended Guides:
 
 [**Fedora Post Install**](https://eloymelo.com/tutorials/fedora/fedora-post-install/)
+
+[**Fedora Apps**](https://eloymelo.com/tutorials/fedora/fedora-apps/)
+
+[**Fedora Fixes**](https://eloymelo.com/tutorials/fedora/fedora-fixes/)

@@ -73,3 +73,7 @@ sudo hostnamectl set-hostname "New_Custom_Name"
 ### Recommended Guides:
 
 [**Fedora Better Fonts**](https://eloymelo.com/tutorials/fedora/fedora-better-fonts/)
+
+[**Fedora Apps**](https://eloymelo.com/tutorials/fedora/fedora-apps/)
+
+[**Fedora Fixes**](https://eloymelo.com/tutorials/fedora/fedora-fixes/)
