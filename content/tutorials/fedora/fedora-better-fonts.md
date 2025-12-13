@@ -14,6 +14,10 @@ And then:
 ```bash
 sudo rpm -i https://downloads.sourceforge.net/project/mscorefonts2/rpms/msttcore-fonts-installer-2.6-1.noarch.rpm
 ```
+If you got errors while trying to run the command above, run it with the --nodigest flag. So basically 
+```bash
+sudo rpm --nodigest -i ...
+```
 
 ### 2. Enable COPR repository (CURRENTLY NOT WORKING FOR FEDORA 43)
 ```bash
