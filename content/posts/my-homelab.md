@@ -6,9 +6,10 @@ draft: false
 
 I recently have made [this post](https://eloymelo.com/posts/goodbye-windows/) talking about why I am ditching Windows and going full Linux. If you want to get a better context for what I am going to write here, you can check that out first.
 
-Yes, that's right, I have build my very own home lab running Debian 13 Trixie, and it's a life changer. For starters, I have completely ditched services like Proton Drive, Google Photos, Spotify, Netflix, Amazon Music and so on. Now I host all of that in my own server, well, not exactly the *same* services, but the open source free (as in freedom) alternatives.
+Yes, that's right, I have build my very own home lab running Debian 13 Trixie, and it's a life changer. For starters, I have completely ditched services like ChatGPT, Proton Drive, Google Photos, Spotify, Netflix, Amazon Music and so on. Now I host all of that in my own server, well, not exactly the *same* services, but the open source free (as in freedom) alternatives.
 
 The main ones are:
+* ChatGPT -> [Ollama](https://github.com/ollama/ollama) and [Openwebui](https://github.com/open-webui/open-webui) 
 * Spotify -> [Navidrome](https://www.navidrome.org/)
 * Google Photos -> [Immich](https://immich.app/)
 * Proton Drive -> [Nextcloud](https://github.com/nextcloud/all-in-one)
