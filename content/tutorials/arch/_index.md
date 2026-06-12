@@ -1,5 +1,6 @@
 ---
 title: "Arch"
-description: "Guides that will make your life easier when using this distro."
 layout: "section"
 ---
+
+Guides for Arch: apps, fonts, firewall and post-install setup.
