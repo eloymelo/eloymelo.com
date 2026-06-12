@@ -2,6 +2,7 @@
 title: "Arch Firewall"
 date: 2025-11-25T10:15:53-03:00
 url: "/tutorials/arch/arch-firewall/"
+tags: ["arch", "firewall", "ufw", "security"]
 draft: false
 ---
 

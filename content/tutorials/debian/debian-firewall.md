@@ -2,6 +2,7 @@
 title: "Debian Firewall"
 date: 2025-11-26T01:57:35-03:00
 url: "/tutorials/debian/debian-firewall/"
+tags: ["debian", "firewall", "ufw", "security"]
 draft: false
 ---
 

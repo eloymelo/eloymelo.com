@@ -1,6 +1,7 @@
 ---
 title: "Goodbye, Windows. Hello, Linux!"
 date: 2025-12-15T02:32:36-03:00
+tags: ["linux", "windows", "fedora"]
 draft: false
 ---
 

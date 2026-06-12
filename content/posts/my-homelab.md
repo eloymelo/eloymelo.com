@@ -1,6 +1,7 @@
 ---
 title: "I have built my own Home Lab, and it's fantastic!"
 date: 2025-12-15T12:40:27-03:00
+tags: ["homelab", "self-hosted", "debian", "linux"]
 draft: false
 ---
 

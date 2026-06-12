@@ -2,6 +2,7 @@
 title: "Settings"
 date: 2025-11-25T10:00:00-03:00
 url: "/tutorials/gnome/gnome-settings/"
+tags: ["gnome", "settings", "desktop"]
 draft: false
 ---
 

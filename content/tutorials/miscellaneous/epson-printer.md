@@ -2,6 +2,7 @@
 title: "Setting up an EPSON Printer"
 date: 2025-06-12T10:00:00-03:00
 url: "/tutorials/miscellaneous/epson-printer/"
+tags: ["printer", "epson", "cups", "hardware"]
 draft: false
 ---
 

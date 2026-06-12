@@ -2,6 +2,7 @@
 title: "Fedora Post Install"
 date: 2025-04-09T00:10:06-03:00
 url: "/tutorials/fedora/fedora-post-install/"
+tags: ["fedora", "post-install", "setup", "dnf"]
 draft: false
 ---
 

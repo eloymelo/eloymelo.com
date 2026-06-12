@@ -3,7 +3,6 @@ title: "Fedora Apps"
 date: 2025-12-12T16:42:03-03:00
 url: "/tutorials/fedora/fedora-apps/"
 tags: ["fedora", "apps", "dnf"]
-distro: ["fedora"]
 draft: false
 ---
 

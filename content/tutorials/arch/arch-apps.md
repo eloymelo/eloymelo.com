@@ -2,6 +2,7 @@
 title: "Arch Apps"
 date: 2025-11-25T09:24:54-03:00
 url: "/tutorials/arch/arch-apps/"
+tags: ["arch", "apps", "pacman"]
 draft: false
 ---
 

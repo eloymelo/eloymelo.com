@@ -2,6 +2,7 @@
 title: "Debian Apps"
 date: 2025-11-26T15:59:11-03:00
 url: "/tutorials/debian/debian-apps/"
+tags: ["debian", "apps", "apt"]
 draft: false
 ---
 

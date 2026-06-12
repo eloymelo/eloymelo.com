@@ -2,6 +2,7 @@
 title: "ProtonGE Setup"
 date: 2025-06-12T10:00:00-03:00
 url: "/tutorials/miscellaneous/proton-ge/"
+tags: ["gaming", "steam", "proton", "wine"]
 draft: false
 ---
 

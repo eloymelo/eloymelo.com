@@ -2,6 +2,7 @@
 title: "Cedilla Fix for US Keyboard Layout"
 date: 2025-11-25T10:00:00-03:00
 url: "/tutorials/miscellaneous/cedilla/"
+tags: ["keyboard", "fix", "xorg"]
 draft: false
 ---
 

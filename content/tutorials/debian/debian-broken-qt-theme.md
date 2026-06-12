@@ -2,6 +2,7 @@
 title: "Debian Broken QT Theme"
 date: 2025-11-26T01:58:00-03:00
 url: "/tutorials/debian/debian-broken-qt-theme"
+tags: ["debian", "qt", "gnome", "fix"]
 draft: false
 ---
 

@@ -2,6 +2,7 @@
 title: "Extensions"
 date: 2025-11-25T10:00:00-03:00
 url: "/tutorials/gnome/gnome-extensions/"
+tags: ["gnome", "extensions", "desktop"]
 draft: false
 ---
 

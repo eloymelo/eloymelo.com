@@ -2,6 +2,7 @@
 title: "Arch Post Install"
 date: 2025-04-08T01:16:05-03:00
 url: "/tutorials/arch/arch-post-install/"
+tags: ["arch", "post-install", "setup"]
 draft: false
 ---
 

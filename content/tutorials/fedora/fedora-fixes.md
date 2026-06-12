@@ -2,6 +2,7 @@
 title: "Fedora Fixes"
 date: 2025-12-12T16:33:34-03:00
 url: "/tutorials/fedora/fedora-fixes/"
+tags: ["fedora", "fix", "flatpak", "kvm"]
 draft: false
 ---
 

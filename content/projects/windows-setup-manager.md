@@ -1,6 +1,7 @@
 ---
 title: "Windows Setup Manager"
 date: 2025-10-16
+tags: ["windows", "python", "powershell", "automation"]
 draft: false
 ---
 

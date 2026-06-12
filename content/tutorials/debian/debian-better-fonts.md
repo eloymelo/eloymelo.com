@@ -2,6 +2,7 @@
 title: "Debian Better Fonts"
 date: 2025-11-26T01:45:18-03:00
 url: "/tutorials/debian/debian-better-fonts/"
+tags: ["debian", "fonts", "apt"]
 draft: false
 ---
 

@@ -2,6 +2,7 @@
 title: "Arch Better Fonts"
 date: 2025-11-25T09:56:15-03:00
 url: "/tutorials/arch/arch-better-fonts/"
+tags: ["arch", "fonts", "aur"]
 draft: false
 ---
 

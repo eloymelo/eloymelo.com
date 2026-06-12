@@ -1,6 +1,7 @@
 ---
 title: "Just a Simple Website"
 date: 2025-04-08T08:57:01-03:00
+tags: ["meta", "hugo", "papermod"]
 draft: false
 ---
 
