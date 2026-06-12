@@ -18,6 +18,7 @@ defaultContentLanguageInSubdir = false
     [languages.en.params]
       author = "Eloy Melo"
       description = "IT Professional transitioning from technical support to full-stack development."
+      mainSections = ["posts"]
       showReadingTime = true
       defaultTheme = "auto"
       ShowShareButtons = false
